@@ -1,0 +1,4478 @@
+-
+  id:          '007015400'
+  alternative:
+    -
+      language: fr
+      value:    Londres Saint Pancras
+    -
+      language: nl
+      value:    Londen Saint Pancras
+  country:     GB
+  latitude:    51.5310399
+  longitude:   -0.1260606
+  name:        London Saint Pancras International
+-
+  id:        '007015440'
+  country:   GB
+  latitude:  51.44304
+  longitude: 0.32107
+  name:      Ebbsfleet International
+-
+  id:        '008008094'
+  country:   DE
+  latitude:  51.219962
+  longitude: 6.794319
+  name:      Düsseldorf Hbf
+-
+  id:        '008010184'
+  country:   DE
+  latitude:  51.451355
+  longitude: 7.014793
+  name:      Essen Hbf
+-
+  id:        '008010316'
+  country:   DE
+  latitude:  51.42978
+  longitude: 6.7759037
+  name:      Duisburg Hbf
+-
+  id:          '008011068'
+  alternative:
+    -
+      language: fr
+      value:    Francfort-sur-le-Main Hbf
+  country:     DE
+  latitude:    50.1071318
+  longitude:   8.6653708
+  name:        Frankfurt am Main Hbf
+-
+  id:          '008011090'
+  alternative:
+    -
+      language: en
+      value:    Frankfurt am Main Airport
+    -
+      language: fr
+      value:    Francfort-sur-le-Main Aéroport
+    -
+      language: nl
+      value:    Frankfurt am Main Luchthaven
+  country:     DE
+  latitude:    50.051696
+  longitude:   8.569853
+  name:        Frankfurt am Main Flughafen
+-
+  id:          '008015345'
+  alternative:
+    -
+      language: fr
+      value:    Aix-la-Chapelle Hbf
+    -
+      language: nl
+      value:    Aken Hbf
+  country:     DE
+  latitude:    50.770832
+  longitude:   6.105275
+  name:        Aachen Hbf
+-
+  id:          '008015458'
+  alternative:
+    -
+      language: fr
+      value:    Cologne Hbf
+    -
+      language: nl
+      value:    Keulen Hbf
+  country:     DE
+  latitude:    50.942721
+  longitude:   6.958823
+  name:        Köln Hbf
+-
+  id:        '008015588'
+  country:   DE
+  latitude:  50.793916
+  longitude: 7.203029
+  name:      Siegburg
+-
+  id:        '008032572'
+  country:   DE
+  latitude:  50.3825
+  longitude: 8.096112
+  name:      Limburg Süd
+-
+  id:        '008039904'
+  country:   DE
+  latitude:  51.292008
+  longitude: 6.786837
+  name:      Düsseldorf Flughafen Hbf
+-
+  id:          '008200100'
+  alternative:
+    -
+      language: fr
+      value:    Luxembourg
+    -
+      language: nl
+      value:    Luxemburg
+    -
+      language: de
+      value:    Luxemburg
+  country:     LU
+  latitude:    49.599996
+  longitude:   6.133331
+  name:        Lëtzebuerg
+-
+  id:        '008200110'
+  country:   LU
+  latitude:  49.748893
+  longitude: 6.106111
+  name:      Mersch
+-
+  id:          '008200120'
+  alternative:
+    -
+      language: fr
+      value:    Ettelbruck
+    -
+      language: nl
+      value:    Ettelbruck
+    -
+      language: de
+      value:    Ettelbrück
+  country:     LU
+  latitude:    49.847496
+  longitude:   6.104169
+  name:        Ettelbréck
+-
+  id:          '008200130'
+  alternative:
+    -
+      language: fr
+      value:    Kautenbach
+    -
+      language: nl
+      value:    Kautenbach
+    -
+      language: de
+      value:    Kautenbach
+  country:     LU
+  latitude:    49.952777
+  longitude:   6.020003
+  name:        Kautebaach
+-
+  id:        '008200132'
+  country:   LU
+  latitude:  49.988887
+  longitude: 5.999166
+  name:      Wilwerwiltz
+-
+  id:        '008200133'
+  country:   LU
+  latitude:  50.017778
+  longitude: 6.006106
+  name:      Drauffelt
+-
+  id:        '008200134'
+  country:   LU
+  latitude:  50.054724
+  longitude: 6.031393
+  name:      Clervaux
+-
+  id:        '008200136'
+  country:   LU
+  latitude:  50.121109
+  longitude: 6.000281
+  name:      Troisvierges
+-
+  id:        '008200510'
+  country:   LU
+  latitude:  49.613002
+  longitude: 6.060601
+  name:      Bertrange Strassen
+-
+  id:        '008200516'
+  country:   LU
+  latitude:  49.625663
+  longitude: 6.02014
+  name:      Mamer
+-
+  id:          '008200518'
+  alternative:
+    -
+      language: fr
+      value:    Capellen
+    -
+      language: nl
+      value:    Capellen
+    -
+      language: de
+      value:    Capellen
+  country:     LU
+  latitude:    49.644996
+  longitude:   5.990833
+  name:        Kapellen
+-
+  id:          '008200520'
+  alternative:
+    -
+      language: fr
+      value:    Kleinbettingen
+    -
+      language: nl
+      value:    Kleinbettingen
+    -
+      language: de
+      value:    Kleinbettingen
+  country:     LU
+  latitude:    49.646389
+  longitude:   5.916385
+  name:        Klengbetten
+-
+  id:        '008200940'
+  country:   LU
+  latitude:  49.551283
+  longitude: 5.845028
+  name:      Rodange
+-
+  id:        '008210014'
+  country:   LU
+  latitude:  49.618415
+  longitude: 6.02968
+  name:      Mamer-Lycée
+-
+  id:        '008400058'
+  country:   NL
+  latitude:  52.379128
+  longitude: 4.900272
+  name:      Amsterdam CS
+-
+  id:        '008400180'
+  country:   NL
+  latitude:  51.799998
+  longitude: 4.666668
+  name:      Dordrecht
+-
+  id:        '008400219'
+  country:   NL
+  latitude:  50.772135
+  longitude: 5.709786
+  name:      Eijsden
+-
+  id:        '008400280'
+  country:   NL
+  latitude:  52.083329
+  longitude: 4.299999
+  name:      Den Haag HS
+-
+  id:        '008400424'
+  country:   NL
+  latitude:  50.85
+  longitude: 5.683331
+  name:      Maastricht
+-
+  id:        '008400426'
+  country:   NL
+  latitude:  50.838502
+  longitude: 5.716707
+  name:      Maastricht Randwyck
+-
+  id:        '008400526'
+  country:   NL
+  latitude:  51.533333
+  longitude: 4.466667
+  name:      Roosendaal
+-
+  id:        '008400530'
+  country:   NL
+  latitude:  51.925093
+  longitude: 4.469424
+  name:      Rotterdam CS
+-
+  id:        '008400561'
+  country:   NL
+  latitude:  52.308294
+  longitude: 4.762268
+  name:      Schiphol
+-
+  id:          '008500010'
+  alternative:
+    -
+      language: nl
+      value:    Bazel
+  country:     CH
+  latitude:    47.547408
+  longitude:   7.590716
+  name:        Basel
+-
+  id:        '008711184'
+  country:   FR
+  latitude:  48.868256
+  longitude: 2.782184
+  name:      Marne-la-Vallée - Chessy
+-
+  id:        '008718201'
+  country:   FR
+  latitude:  48.083335
+  longitude: 7.366668
+  name:      Colmar
+-
+  id:        '008718206'
+  country:   FR
+  latitude:  47.749998
+  longitude: 7.333336
+  name:      Mulhouse
+-
+  id:        '008718213'
+  country:   FR
+  latitude:  47.5907
+  longitude: 7.555316
+  name:      Saint-Louis-Haut-Rhin
+-
+  id:        '008719100'
+  country:   FR
+  latitude:  49.366663
+  longitude: 6.166663
+  name:      Thionville
+-
+  id:        '008719203'
+  country:   FR
+  latitude:  49.13333
+  longitude: 6.166663
+  name:      Metz
+-
+  id:          '008721202'
+  alternative:
+    -
+      language: nl
+      value:    Straatsburg
+    -
+      language: de
+      value:    Straßburg
+  country:     FR
+  latitude:    48.585437
+  longitude:   7.733905
+  name:        Strasbourg
+-
+  id:        '008721222'
+  country:   FR
+  latitude:  48.744798
+  longitude: 7.362255
+  name:      Saverne
+-
+  id:        '008721405'
+  country:   FR
+  latitude:  48.26667
+  longitude: 7.449999
+  name:      Selestat
+-
+  id:          '008722326'
+  alternative:
+    -
+      language: nl
+      value:    Rijsel-Europa
+  country:     FR
+  latitude:    50.636108
+  longitude:   3.071516
+  name:        Lille Europe
+-
+  id:          '008727100'
+  alternative:
+    -
+      language: nl
+      value:    Parijs Noord
+  country:     FR
+  latitude:    48.8809984
+  longitude:   2.3553093
+  name:        Paris Nord
+-
+  id:        '008727149'
+  country:   FR
+  latitude:  49.003955
+  longitude: 2.571123
+  name:      Aéroport Charles-de-Gaulle TGV
+-
+  id:        '008728105'
+  country:   FR
+  latitude:  50.675708
+  longitude: 3.13381
+  name:      Croix l'Allumette
+-
+  id:          '008728600'
+  alternative:
+    -
+      language: nl
+      value:    Rijsel-Vlaanderen
+  country:     FR
+  latitude:    50.633333
+  longitude:   3.066669
+  name:        Lille Flandres
+-
+  id:        '008728606'
+  country:   FR
+  latitude:  50.626941
+  longitude: 3.108892
+  name:      Hellemmes
+-
+  id:        '008728654'
+  country:   FR
+  latitude:  50.716663
+  longitude: 3.168033
+  name:      Tourcoing
+-
+  id:        '008728671'
+  country:   FR
+  latitude:  50.6764687
+  longitude: 3.149272
+  name:      Croix Wasquehal
+-
+  id:        '008728673'
+  country:   FR
+  latitude:  50.699997
+  longitude: 3.166666
+  name:      Roubaix
+-
+  id:        '008728683'
+  country:   FR
+  latitude:  50.624164
+  longitude: 3.1275
+  name:      Pont de Bois
+-
+  id:        '008728685'
+  country:   FR
+  latitude:  50.6228168
+  longitude: 3.1473086
+  name:      Annappes
+-
+  id:        '008728686'
+  country:   FR
+  latitude:  50.616666
+  longitude: 3.166666
+  name:      Ascq
+-
+  id:        '008728687'
+  country:   FR
+  latitude:  50.610039
+  longitude: 3.2378999
+  name:      Baisieux
+-
+  id:        '008728710'
+  country:   FR
+  latitude:  50.616666
+  longitude: 3.116667
+  name:      Lezennes
+-
+  id:        '008731388'
+  country:   FR
+  latitude:  49.623044
+  longitude: 2.802566
+  name:      Haute-Picardie TGV
+-
+  id:        '008731896'
+  country:   FR
+  latitude:  43.921433
+  longitude: 4.785841
+  name:      Avignon TGV
+-
+  id:        '008731901'
+  country:   FR
+  latitude:  43.455128
+  longitude: 5.317243
+  name:      Aix-en-Provence TGV
+-
+  id:        '008772202'
+  country:   FR
+  latitude:  45.748360
+  longitude: 4.825301
+  name:      Lyon-Perrache TGV
+-
+  id:        '008772319'
+  country:   FR
+  latitude:  45.7612738
+  longitude: 4.8594013
+  name:      Lyon Part Dieu TGV
+-
+  id:        '008774100'
+  country:   FR
+  latitude:  45.571498
+  longitude: 5.919756
+  name:      Chambéry-Challes-les-Eaux
+-
+  id:        '008774164'
+  country:   FR
+  latitude:  45.673624
+  longitude: 6.383617
+  name:      Albertville
+-
+  id:        '008774172'
+  country:   FR
+  latitude:  45.486693
+  longitude: 6.531454
+  name:      Moûtiers-Salins-Brides-les-Bai
+-
+  id:        '008774176'
+  country:   FR
+  latitude:  45.554202
+  longitude: 6.648394
+  name:      Aime-la-Plagne
+-
+  id:        '008774177'
+  country:   FR
+  latitude:  45.574194
+  longitude: 6.733522
+  name:      Landry
+-
+  id:        '008774179'
+  country:   FR
+  latitude:  45.618826
+  longitude: 6.771664
+  name:      Bourg-Saint-Maurice
+-
+  id:        '008775100'
+  country:   FR
+  latitude:  43.303178
+  longitude: 5.380752
+  name:      Marseille-Saint-Charles
+-
+  id:        '008775500'
+  country:   FR
+  latitude:  43.1274781
+  longitude: 5.9326648
+  name:      Toulon
+-
+  id:        '008775544'
+  country:   FR
+  latitude:  43.4555673
+  longitude: 6.4826446
+  name:      Les Arcs - Draguignan
+-
+  id:        '008775605'
+  country:   FR
+  latitude:  43.704605
+  longitude: 7.261928
+  name:      Nice Ville
+-
+  id:        '008775752'
+  country:   FR
+  latitude:  43.423456
+  longitude: 6.768825
+  name:      Saint-Raphaël-Valescure
+-
+  id:        '008775762'
+  country:   FR
+  latitude:  43.553742
+  longitude: 7.019895
+  name:      Cannes
+-
+  id:        '008775767'
+  country:   FR
+  latitude:  43.586618
+  longitude: 7.1201361
+  name:      Antibes
+-
+  id:        '008776290'
+  country:   FR
+  latitude:  45.720907
+  longitude: 5.075822
+  name:      Lyon-Saint Exupéry TGV
+-
+  id:        '008776302'
+  country:   FR
+  latitude:  44.992586
+  longitude: 4.978529
+  name:      Valence TGV
+-
+  id:        '008777300'
+  country:   FR
+  latitude:  43.604947
+  longitude: 3.880534
+  name:      Montpellier
+-
+  id:        '008777320'
+  country:   FR
+  latitude:  43.412810
+  longitude: 3.696535
+  name:      Sète
+-
+  id:        '008777500'
+  country:   FR
+  latitude:  43.832602
+  longitude: 4.365997
+  name:      Nîmes
+-
+  id:        '008778100'
+  country:   FR
+  latitude:  43.336177
+  longitude: 3.218794
+  name:      Béziers
+-
+  id:        '008778110'
+  country:   FR
+  latitude:  43.190399
+  longitude: 3.006010
+  name:      Narbonne
+-
+  id:        '008778127'
+  country:   FR
+  latitude:  43.317498
+  longitude: 3.465800
+  name:      Agde
+-
+  id:        '008778400'
+  country:   FR
+  latitude:  42.695938
+  longitude: 2.879397
+  name:      Perpignan
+-
+  id:          '008811007'
+  alternative:
+    -
+      language: fr
+      value:    Schaerbeek
+    -
+      language: nl
+      value:    Schaarbeek
+  country:     BE
+  latitude:    50.878513
+  longitude:   4.378636
+  name:        Schaarbeek/Schaerbeek
+-
+  id:        '008811106'
+  country:   BE
+  latitude:  50.86778
+  longitude: 4.400965
+  name:      Evere
+-
+  id:          '008811130'
+  alternative:
+    -
+      language: fr
+      value:    Haren-Sud
+    -
+      language: nl
+      value:    Haren-Zuid
+  country:     BE
+  latitude:    50.889696
+  longitude:   4.415357
+  name:        Haren-Sud/Haren-Zuid
+-
+  id:        '008811148'
+  country:   BE
+  latitude:  50.907495
+  longitude: 4.417074
+  name:      Buda
+-
+  id:        '008811155'
+  country:   BE
+  latitude:  50.888878
+  longitude: 4.419978
+  name:      Haren
+-
+  id:        '008811163'
+  country:   BE
+  latitude:  50.877785
+  longitude: 4.410026
+  name:      Bordet
+-
+  id:        '008811171'
+  country:   BE
+  latitude:  50.854072
+  longitude: 4.394421
+  name:      Meiser
+-
+  id:          '008811189'
+  alternative:
+    -
+      language: fr
+      value:    Vilvorde
+  country:     BE
+  latitude:    50.924583
+  longitude:   4.432823
+  name:        Vilvoorde
+-
+  id:        '008811197'
+  country:   BE
+  latitude:  50.839284
+  longitude: 4.398934
+  name:      Merode
+-
+  id:        '008811205'
+  country:   BE
+  latitude:  50.818357
+  longitude: 4.403869
+  name:      Delta
+-
+  id:        '008811213'
+  country:   BE
+  latitude:  50.890478
+  longitude: 4.442774
+  name:      Diegem
+-
+  id:        '008811221'
+  country:   BE
+  latitude:  50.885723
+  longitude: 4.469886
+  name:      Zaventem
+-
+  id:        '008811247'
+  country:   BE
+  latitude:  50.883314
+  longitude: 4.506112
+  name:      Nossegem
+-
+  id:        '008811254'
+  country:   BE
+  latitude:  50.893067
+  longitude: 4.543301
+  name:      Kortenberg
+-
+  id:        '008811262'
+  country:   BE
+  latitude:  50.89651
+  longitude: 4.585001
+  name:      Erps-Kwerps
+-
+  id:        '008811270'
+  country:   BE
+  latitude:  50.900519
+  longitude: 4.633516
+  name:      Veltem
+-
+  id:        '008811288'
+  country:   BE
+  latitude:  50.90353
+  longitude: 4.672188
+  name:      Herent
+-
+  id:          '008811304'
+  alternative:
+    -
+      language: en
+      value:    Brussels-Luxemburg/Brussels-Luxembourg
+    -
+      language: fr
+      value:    Bruxelles-Luxembourg
+    -
+      language: nl
+      value:    Brussel-Luxemburg
+  country:     BE
+  latitude:    50.838943
+  longitude:   4.373674
+  name:        Brussel-Luxemburg/Bruxelles-Luxembourg
+-
+  id:        '008811411'
+  country:   BE
+  latitude:  50.822187
+  longitude: 4.389513
+  name:      Etterbeek
+-
+  id:          '008811429'
+  alternative:
+    -
+      language: fr
+      value:    Watermael
+    -
+      language: nl
+      value:    Watermaal
+  country:     BE
+  latitude:    50.80917
+  longitude:   4.399887
+  name:        Watermaal/Watermael
+-
+  id:          '008811437'
+  alternative:
+    -
+      language: fr
+      value:    Boitsfort
+    -
+      language: nl
+      value:    Bosvoorde
+  country:     BE
+  latitude:    50.794698
+  longitude:   4.408112
+  name:        Bosvoorde/Boitsfort
+-
+  id:          '008811445'
+  alternative:
+    -
+      language: fr
+      value:    Groenendael
+  country:     BE
+  latitude:    50.766103
+  longitude:   4.449489
+  name:        Groenendaal
+-
+  id:        '008811460'
+  country:   BE
+  latitude:  50.760161
+  longitude: 4.467414
+  name:      Hoeilaart
+-
+  id:          '008811510'
+  alternative:
+    -
+      language: nl
+      value:    Terhulpen
+  country:     BE
+  latitude:    50.737958
+  longitude:   4.49706
+  name:        La Hulpe
+-
+  id:        '008811528'
+  country:   BE
+  latitude:  50.725697
+  longitude: 4.514832
+  name:      Genval
+-
+  id:        '008811536'
+  country:   BE
+  latitude:  50.711413
+  longitude: 4.532855
+  name:      Rixensart
+-
+  id:        '008811544'
+  country:   BE
+  latitude:  50.693758
+  longitude: 4.549153
+  name:      Profondsart
+-
+  id:        '008811601'
+  country:   BE
+  latitude:  50.673667
+  longitude: 4.56936
+  name:      Ottignies
+-
+  id:        '008811635'
+  country:   BE
+  latitude:  50.69214
+  longitude: 4.575302
+  name:      Limal
+-
+  id:        '008811676'
+  country:   BE
+  latitude:  50.669793
+  longitude: 4.615745
+  name:      Louvain-la-Neuve-Université
+-
+  id:        '008811718'
+  country:   BE
+  latitude:  50.707772
+  longitude: 4.594746
+  name:      Bierges-Walibi
+-
+  id:          '008811726'
+  alternative:
+    -
+      language: nl
+      value:    Waver
+  country:     BE
+  latitude:    50.716267
+  longitude:   4.604778
+  name:        Wavre
+-
+  id:        '008811734'
+  country:   BE
+  latitude:  50.72442
+  longitude: 4.621651
+  name:      Basse-Wavre
+-
+  id:        '008811742'
+  country:   BE
+  latitude:  50.736646
+  longitude: 4.649598
+  name:      Gastuche
+-
+  id:          '008811759'
+  alternative:
+    -
+      language: nl
+      value:    Eerken
+  country:     BE
+  latitude:    50.754345
+  longitude:   4.662444
+  name:        Archennes
+-
+  id:        '008811767'
+  country:   BE
+  latitude:  50.761501
+  longitude: 4.653868
+  name:      Florival
+-
+  id:        '008811775'
+  country:   BE
+  latitude:  50.778517
+  longitude: 4.651486
+  name:      Pécrot
+-
+  id:        '008811817'
+  country:   BE
+  latitude:  50.659941
+  longitude: 4.569046
+  name:      Ceroux-Mousty
+-
+  id:        '008811825'
+  country:   BE
+  latitude:  50.645567
+  longitude: 4.565819
+  name:      Court-Saint-Étienne
+-
+  id:          '008811916'
+  alternative:
+    -
+      language: en
+      value:    Brussels-Schuman
+    -
+      language: fr
+      value:    Bruxelles-Schuman
+    -
+      language: nl
+      value:    Brussel-Schuman
+  country:     BE
+  latitude:    50.843276
+  longitude:   4.380722
+  name:        Brussel-Schuman/Bruxelles-Schuman
+-
+  id:          '008812005'
+  alternative:
+    -
+      language: en
+      value:    Brussels-North
+    -
+      language: fr
+      value:    Bruxelles-Nord
+    -
+      language: nl
+      value:    Brussel-Noord
+  country:     BE
+  latitude:    50.859663
+  longitude:   4.360846
+  name:        Brussel-Noord/Bruxelles-Nord
+-
+  id:        '008812013'
+  country:   BE
+  latitude:  50.863645
+  longitude: 4.32898
+  name:      Simonis
+-
+  id:        '008812021'
+  country:   BE
+  latitude:  50.87943
+  longitude: 4.348513
+  name:      Bockstael
+-
+  id:        '008812047'
+  country:   BE
+  latitude:  50.880833
+  longitude: 4.32622
+  name:      Jette
+-
+  id:        '008812062'
+  country:   BE
+  latitude:  50.890028
+  longitude: 4.274541
+  name:      Zellik
+-
+  id:        '008812070'
+  country:   BE
+  latitude:  50.906488
+  longitude: 4.207985
+  name:      Asse
+-
+  id:        '008812112'
+  country:   BE
+  latitude:  50.933473
+  longitude: 4.216965
+  name:      Mollem
+-
+  id:        '008812120'
+  country:   BE
+  latitude:  50.954958
+  longitude: 4.222718
+  name:      Merchtem
+-
+  id:        '008812146'
+  country:   BE
+  latitude:  50.974779
+  longitude: 4.187319
+  name:      Opwijk
+-
+  id:        '008812153'
+  country:   BE
+  latitude:  50.989593
+  longitude: 4.156171
+  name:      Heizijde
+-
+  id:        '008812161'
+  country:   BE
+  latitude:  51.005009
+  longitude: 4.134372
+  name:      Lebbeke
+-
+  id:          '008812211'
+  alternative:
+    -
+      language: fr
+      value:    Berchem-Sainte-Agathe
+    -
+      language: nl
+      value:    Sint-Agatha-Berchem
+  country:     BE
+  latitude:    50.872625
+  longitude:   4.289895
+  name:        Sint-Agatha-Berchem/Berchem-Sainte-Agathe
+-
+  id:          '008812229'
+  alternative:
+    -
+      language: fr
+      value:    Grand-Bigard
+  country:     BE
+  latitude:    50.868337
+  longitude:   4.273543
+  name:        Groot-Bijgaarden
+-
+  id:        '008812237'
+  country:   BE
+  latitude:  50.866728
+  longitude: 4.243393
+  name:      Dilbeek
+-
+  id:          '008812245'
+  alternative:
+    -
+      language: fr
+      value:    Bodeghem-Saint-Martin
+  country:     BE
+  latitude:    50.86716
+  longitude:   4.205081
+  name:        Sint-Martens-Bodegem
+-
+  id:        '008812252'
+  country:   BE
+  latitude:  50.874522
+  longitude: 4.16534
+  name:      Ternat
+-
+  id:        '008812260'
+  country:   BE
+  latitude:  50.882451
+  longitude: 4.115171
+  name:      Essene-Lombeek
+-
+  id:          '008813003'
+  alternative:
+    -
+      language: en
+      value:    Brussels-Central
+    -
+      language: fr
+      value:    Bruxelles-Central
+    -
+      language: nl
+      value:    Brussel-Centraal
+  country:     BE
+  latitude:    50.845658
+  longitude:   4.356801
+  name:        Brussel-Centraal/Bruxelles-Central
+-
+  id:          '008813037'
+  alternative:
+    -
+      language: en
+      value:    Brussels-Chapelle/Brussels-Kapellekerk
+    -
+      language: fr
+      value:    Bruxelles-Chapelle
+    -
+      language: nl
+      value:    Brussel-Kapellekerk
+  country:     BE
+  latitude:    50.841127
+  longitude:   4.347866
+  name:        Brussel-Kapellekerk/Bruxelles-Chapelle
+-
+  id:          '008813045'
+  alternative:
+    -
+      language: en
+      value:    Brussels-Congres
+    -
+      language: fr
+      value:    Bruxelles-Congrès
+    -
+      language: nl
+      value:    Brussel-Congres
+  country:     BE
+  latitude:    50.852067
+  longitude:   4.362051
+  name:        Brussel-Congres/Bruxelles-Congrès
+-
+  id:          '008814001'
+  alternative:
+    -
+      language: en
+      value:    Brussels-South/Brussels-Midi
+    -
+      language: fr
+      value:    Bruxelles-Midi
+    -
+      language: nl
+      value:    Brussel-Zuid
+  country:     BE
+  latitude:    50.835707
+  longitude:   4.336531
+  name:        Brussel-Zuid/Bruxelles-Midi
+-
+  id:          '008814118'
+  alternative:
+    -
+      language: fr
+      value:    Forest-Est
+    -
+      language: nl
+      value:    Vorst-Oost
+  country:     BE
+  latitude:    50.810195
+  longitude:   4.320943
+  name:        Vorst-Oost/Forest-Est
+-
+  id:          '008814126'
+  alternative:
+    -
+      language: fr
+      value:    Uccle-Stalle
+    -
+      language: nl
+      value:    Ukkel-Stalle
+  country:     BE
+  latitude:    50.802411
+  longitude:   4.323901
+  name:        Ukkel-Stalle/Uccle-Stalle
+-
+  id:          '008814134'
+  alternative:
+    -
+      language: fr
+      value:    Uccle-Calevoet
+    -
+      language: nl
+      value:    Ukkel-Kalevoet
+  country:     BE
+  latitude:    50.791749
+  longitude:   4.332207
+  name:        Ukkel-Kalevoet/Uccle-Calevoet
+-
+  id:        '008814142'
+  country:   BE
+  latitude:  50.773681
+  longitude: 4.339434
+  name:      Linkebeek
+-
+  id:        '008814159'
+  country:   BE
+  latitude:  50.767631
+  longitude: 4.353952
+  name:      Holleken
+-
+  id:          '008814167'
+  alternative:
+    -
+      language: fr
+      value:    Rhode-Saint-Genèse
+  country:     BE
+  latitude:    50.74781
+  longitude:   4.361997
+  name:        Sint-Genesius-Rode
+-
+  id:        '008814175'
+  country:   BE
+  latitude:  50.738812
+  longitude: 4.370717
+  name:      De Hoek
+-
+  id:          '008814209'
+  alternative:
+    -
+      language: nl
+      value:    Nijvel
+  country:     BE
+  latitude:    50.599641
+  longitude:   4.335065
+  name:        Nivelles
+-
+  id:        '008814241'
+  country:   BE
+  latitude:  50.645423
+  longitude: 4.365368
+  name:      Lillois
+-
+  id:          '008814258'
+  alternative:
+    -
+      language: nl
+      value:    Eigenbrakel
+  country:     BE
+  latitude:    50.684778
+  longitude:   4.375526
+  name:        Braine-l'Alleud
+-
+  id:        '008814266'
+  country:   BE
+  latitude:  50.715422
+  longitude: 4.383481
+  name:      Waterloo
+-
+  id:          '008814308'
+  alternative:
+    -
+      language: fr
+      value:    Hal
+  country:     BE
+  latitude:    50.733931
+  longitude:   4.240634
+  name:        Halle
+-
+  id:        '008814332'
+  country:   BE
+  latitude:  50.715107
+  longitude: 4.221577
+  name:      Lembeek
+-
+  id:        '008814340'
+  country:   BE
+  latitude:  50.751577
+  longitude: 4.258558
+  name:      Buizingen
+-
+  id:        '008814357'
+  country:   BE
+  latitude:  50.766364
+  longitude: 4.273696
+  name:      Lot
+-
+  id:        '008814365'
+  country:   BE
+  latitude:  50.79183
+  longitude: 4.295333
+  name:      Ruisbroek
+-
+  id:          '008814373'
+  alternative:
+    -
+      language: fr
+      value:    Forest-Midi
+    -
+      language: nl
+      value:    Vorst-Zuid
+  country:     BE
+  latitude:    50.809215
+  longitude:   4.309167
+  name:        Vorst-Zuid/Forest-Midi
+-
+  id:        '008814415'
+  country:   BE
+  latitude:  50.7519
+  longitude: 4.266487
+  name:      Huizingen
+-
+  id:        '008814423'
+  country:   BE
+  latitude:  50.766616
+  longitude: 4.302605
+  name:      Beersel
+-
+  id:        '008814431'
+  country:   BE
+  latitude:  50.77832
+  longitude: 4.330733
+  name:      Moensberg
+-
+  id:          '008814449'
+  alternative:
+    -
+      language: fr
+      value:    Saint-Job
+  country:     BE
+  latitude:    50.79441
+  longitude:   4.362761
+  name:        Sint-Job
+-
+  id:          '008814456'
+  alternative:
+    -
+      language: fr
+      value:    Boondael
+    -
+      language: nl
+      value:    Boondaal
+  country:     BE
+  latitude:    50.801665
+  longitude:   4.393387
+  name:        Boondaal/Boondael
+-
+  id:          '008814464'
+  alternative:
+    -
+      language: fr
+      value:    Vivier d'Oie
+    -
+      language: nl
+      value:    Diesdelle
+  country:     BE
+  latitude:    50.796145
+  longitude:   4.374052
+  name:        Diesdelle/Vivier d'Oie
+-
+  id:          '008815040'
+  alternative:
+    -
+      language: en
+      value:    Brussels-West
+    -
+      language: fr
+      value:    Bruxelles-Ouest
+    -
+      language: nl
+      value:    Brussel-West
+  country:     BE
+  latitude:    50.848552
+  longitude:   4.321042
+  name:        Brussel-West/Bruxelles-Ouest
+-
+  id:          '008819406'
+  alternative:
+    -
+      language: en
+      value:    Brussels-Airport
+    -
+      language: fr
+      value:    Bruxelles-Nat-Aéroport
+    -
+      language: nl
+      value:    Brussel-Nat-Luchthaven
+  country:     BE
+  latitude:    50.896456
+  longitude:   4.482075
+  name:        Brussel-Nat-Luchthaven/Bruxelles-Nat-Aéroport
+-
+  id:          '008821006'
+  alternative:
+    -
+      language: en
+      value:    Antwerp-Central
+    -
+      language: fr
+      value:    Anvers-Central
+  country:     BE
+  latitude:    51.2172
+  longitude:   4.421101
+  name:        Antwerpen-Centraal
+-
+  id:          '008821022'
+  alternative:
+    -
+      language: en
+      value:    Antwerp-East
+    -
+      language: fr
+      value:    Anvers-Est
+  country:     BE
+  latitude:    51.207357
+  longitude:   4.436392
+  name:        Antwerpen-Oost
+-
+  id:          '008821048'
+  alternative:
+    -
+      language: en
+      value:    Antwerp-Haven
+    -
+      language: fr
+      value:    Anvers-Haven
+  country:     BE
+  latitude:    51.289968
+  longitude:   4.379086
+  name:        Antwerpen-Haven
+-
+  id:          '008821063'
+  alternative:
+    -
+      language: en
+      value:    Antwerp-Luchtbal
+    -
+      language: fr
+      value:    Anvers-Luchtbal
+  country:     BE
+  latitude:    51.244132
+  longitude:   4.425029
+  name:        Antwerpen-Luchtbal
+-
+  id:        '008821071'
+  country:   BE
+  latitude:  51.281626
+  longitude: 4.434154
+  name:      Ekeren
+-
+  id:          '008821089'
+  alternative:
+    -
+      language: en
+      value:    Antwerp-Noorderdokken
+    -
+      language: fr
+      value:    Anvers-Noorderdokken
+  country:     BE
+  latitude:    51.261643
+  longitude:   4.427906
+  name:        Antwerpen-Noorderdokken
+-
+  id:        '008821105'
+  country:   BE
+  latitude:  51.356838
+  longitude: 4.632204
+  name:      Noorderkempen
+-
+  id:          '008821121'
+  alternative:
+    -
+      language: en
+      value:    Antwerp-Berchem
+    -
+      language: fr
+      value:    Anvers-Berchem
+  country:     BE
+  latitude:    51.19923
+  longitude:   4.432221
+  name:        Antwerpen-Berchem
+-
+  id:        '008821147'
+  country:   BE
+  latitude:  51.18296
+  longitude: 4.448437
+  name:      Mortsel
+-
+  id:        '008821154'
+  country:   BE
+  latitude:  51.183023
+  longitude: 4.446514
+  name:      Mortsel-Deurnesteenweg
+-
+  id:          '008821196'
+  alternative:
+    -
+      language: en
+      value:    Antwerp-South
+    -
+      language: fr
+      value:    Anvers-Sud
+  country:     BE
+  latitude:    51.197828
+  longitude:   4.390259
+  name:        Antwerpen-Zuid
+-
+  id:        '008821238'
+  country:   BE
+  latitude:  51.171256
+  longitude: 4.455737
+  name:      Mortsel-Oude God
+-
+  id:        '008821246'
+  country:   BE
+  latitude:  51.169027
+  longitude: 4.468843
+  name:      Mortsel-Liersesteenweg
+-
+  id:        '008821311'
+  country:   BE
+  latitude:  51.134023
+  longitude: 4.476358
+  name:      Kontich
+-
+  id:        '008821337'
+  country:   BE
+  latitude:  51.154114
+  longitude: 4.465157
+  name:      Hove
+-
+  id:        '008821402'
+  country:   BE
+  latitude:  51.462767
+  longitude: 4.451314
+  name:      Essen
+-
+  id:        '008821436'
+  country:   BE
+  latitude:  51.428087
+  longitude: 4.46335
+  name:      Wildert
+-
+  id:        '008821444'
+  country:   BE
+  latitude:  51.391177
+  longitude: 4.46682
+  name:      Kalmthout
+-
+  id:        '008821451'
+  country:   BE
+  latitude:  51.378664
+  longitude: 4.467315
+  name:      Kijkuit
+-
+  id:        '008821519'
+  country:   BE
+  latitude:  51.364623
+  longitude: 4.460483
+  name:      Heide
+-
+  id:        '008821535'
+  country:   BE
+  latitude:  51.313528
+  longitude: 4.432661
+  name:      Kapellen
+-
+  id:        '008821543'
+  country:   BE
+  latitude:  51.291658
+  longitude: 4.4349
+  name:      Sint-Mariaburg
+-
+  id:          '008821600'
+  alternative:
+    -
+      language: fr
+      value:    Lierre
+  country:     BE
+  latitude:    51.135758
+  longitude:   4.560614
+  name:        Lier
+-
+  id:        '008821634'
+  country:   BE
+  latitude:  51.16348
+  longitude: 4.494489
+  name:      Boechout
+-
+  id:        '008821659'
+  country:   BE
+  latitude:  51.151057
+  longitude: 4.618459
+  name:      Kessel
+-
+  id:        '008821667'
+  country:   BE
+  latitude:  51.15984
+  longitude: 4.666588
+  name:      Nijlen
+-
+  id:        '008821709'
+  country:   BE
+  latitude:  51.168361
+  longitude: 4.786144
+  name:      Wolfstee
+-
+  id:        '008821717'
+  country:   BE
+  latitude:  51.181513
+  longitude: 4.829535
+  name:      Herentals
+-
+  id:        '008821725'
+  country:   BE
+  latitude:  51.165764
+  longitude: 4.746511
+  name:      Bouwel
+-
+  id:        '008821816'
+  country:   BE
+  latitude:  51.113662
+  longitude: 4.638811
+  name:      Berlaar
+-
+  id:        '008821824'
+  country:   BE
+  latitude:  51.094938
+  longitude: 4.671532
+  name:      Melkouwen
+-
+  id:        '008821832'
+  country:   BE
+  latitude:  51.074146
+  longitude: 4.708235
+  name:      Heist-op-den-Berg
+-
+  id:        '008821857'
+  country:   BE
+  latitude:  51.037344
+  longitude: 4.773478
+  name:      Booischot
+-
+  id:        '008821865'
+  country:   BE
+  latitude:  51.021972
+  longitude: 4.800338
+  name:      Begijnendijk
+-
+  id:        '008821907'
+  country:   BE
+  latitude:  51.322032
+  longitude: 4.937415
+  name:      Turnhout
+-
+  id:        '008821964'
+  country:   BE
+  latitude:  51.241021
+  longitude: 4.893089
+  name:      Tielen
+-
+  id:          '008822004'
+  alternative:
+    -
+      language: fr
+      value:    Malines
+  country:     BE
+  latitude:    51.017648
+  longitude:   4.482785
+  name:        Mechelen
+-
+  id:        '008822053'
+  country:   BE
+  latitude:  51.010843
+  longitude: 4.359121
+  name:      Kapelle-op-den-Bos
+-
+  id:        '008822111'
+  country:   BE
+  latitude:  51.009091
+  longitude: 4.299073
+  name:      Londerzeel
+-
+  id:        '008822137'
+  country:   BE
+  latitude:  51.014484
+  longitude: 4.22911
+  name:      Malderen
+-
+  id:        '008822145'
+  country:   BE
+  latitude:  51.016291
+  longitude: 4.201666
+  name:      Buggenhout
+-
+  id:          '008822160'
+  alternative:
+    -
+      language: fr
+      value:    Baesrode-Sud
+  country:     BE
+  latitude:    51.019437
+  longitude:   4.153492
+  name:        Baasrode-Zuid
+-
+  id:        '008822210'
+  country:   BE
+  latitude:  51.091243
+  longitude: 4.493186
+  name:      Duffel
+-
+  id:          '008822228'
+  alternative:
+    -
+      language: fr
+      value:    Wavre-Sainte-Catherine
+  country:     BE
+  latitude:    51.069975
+  longitude:   4.496116
+  name:        Sint-Katelijne-Waver
+-
+  id:        '008822251'
+  country:   BE
+  latitude:  50.977449
+  longitude: 4.470937
+  name:      Weerde
+-
+  id:        '008822269'
+  country:   BE
+  latitude:  50.9584
+  longitude: 4.45749
+  name:      Eppegem
+-
+  id:        '008822277'
+  country:   BE
+  latitude:  50.988658
+  longitude: 4.498336
+  name:      Hofstade
+-
+  id:          '008822343'
+  alternative:
+    -
+      language: fr
+      value:    Malines-Nekkerspoel
+  country:     BE
+  latitude:    51.029883
+  longitude:   4.489914
+  name:        Mechelen-Nekkerspoel
+-
+  id:        '008822426'
+  country:   BE
+  latitude:  51.008201
+  longitude: 4.513843
+  name:      Muizen
+-
+  id:        '008822459'
+  country:   BE
+  latitude:  50.997791
+  longitude: 4.537637
+  name:      Hever
+-
+  id:        '008822475'
+  country:   BE
+  latitude:  50.981853
+  longitude: 4.5739
+  name:      Boortmeerbeek
+-
+  id:        '008822517'
+  country:   BE
+  latitude:  50.966428
+  longitude: 4.613309
+  name:      Haacht
+-
+  id:        '008822525'
+  country:   BE
+  latitude:  50.958544
+  longitude: 4.638011
+  name:      Wespelaar-Tildonk
+-
+  id:        '008822533'
+  country:   BE
+  latitude:  50.944251
+  longitude: 4.66301
+  name:      Hambos
+-
+  id:        '008822608'
+  country:   BE
+  latitude:  51.066343
+  longitude: 4.356019
+  name:      Willebroek
+-
+  id:        '008822715'
+  country:   BE
+  latitude:  51.07722
+  longitude: 4.282703
+  name:      Puurs
+-
+  id:        '008822772'
+  country:   BE
+  latitude:  51.099225
+  longitude: 4.240526
+  name:      Bornem
+-
+  id:        '008822814'
+  country:   BE
+  latitude:  51.090713
+  longitude: 4.360694
+  name:      Boom
+-
+  id:        '008822848'
+  country:   BE
+  latitude:  51.081022
+  longitude: 4.324998
+  name:      Ruisbroek-Sauvegarde
+-
+  id:        '008824158'
+  country:   BE
+  latitude:  51.182699
+  longitude: 4.347785
+  name:      Hoboken-Polder
+-
+  id:        '008824224'
+  country:   BE
+  latitude:  51.136243
+  longitude: 4.338293
+  name:      Hemiksem
+-
+  id:        '008824232'
+  country:   BE
+  latitude:  51.12551
+  longitude: 4.340261
+  name:      Schelle
+-
+  id:        '008824240'
+  country:   BE
+  latitude:  51.111595
+  longitude: 4.338589
+  name:      Niel
+-
+  id:        '008831005'
+  country:   BE
+  latitude:  50.930822
+  longitude: 5.327627
+  name:      Hasselt
+-
+  id:        '008831039'
+  country:   BE
+  latitude:  50.886837
+  longitude: 5.292866
+  name:      Alken
+-
+  id:        '008831088'
+  country:   BE
+  latitude:  50.963758
+  longitude: 5.187405
+  name:      Schulen
+-
+  id:        '008831112'
+  country:   BE
+  latitude:  50.910452
+  longitude: 5.419947
+  name:      Diepenbeek
+-
+  id:        '008831138'
+  country:   BE
+  latitude:  50.868643
+  longitude: 5.50938
+  name:      Bilzen
+-
+  id:          '008831310'
+  alternative:
+    -
+      language: fr
+      value:    Tongres
+    -
+      language: de
+      value:    Tongern
+  country:     BE
+  latitude:    50.784405
+  longitude:   5.47328
+  name:        Tongeren
+-
+  id:        '008831401'
+  country:   BE
+  latitude:  50.993341
+  longitude: 5.050031
+  name:      Diest
+-
+  id:        '008831765'
+  country:   BE
+  latitude:  50.967057
+  longitude: 5.497685
+  name:      Genk
+-
+  id:        '008831781'
+  country:   BE
+  latitude:  50.955812
+  longitude: 5.408386
+  name:      Bokrijk
+-
+  id:          '008831807'
+  alternative:
+    -
+      language: fr
+      value:    Saint-Trond
+  country:     BE
+  latitude:    50.81762
+  longitude:   5.176654
+  name:        Sint-Truiden
+-
+  id:          '008832003'
+  alternative:
+    -
+      language: fr
+      value:    Bourg-Léopold
+  country:     BE
+  latitude:    51.117312
+  longitude:   5.257287
+  name:        Leopoldsburg
+-
+  id:          '008832045'
+  alternative:
+    -
+      language: fr
+      value:    Baelen
+  country:     BE
+  latitude:    51.169099
+  longitude:   5.164986
+  name:        Balen
+-
+  id:        '008832227'
+  country:   BE
+  latitude:  51.087719
+  longitude: 5.234373
+  name:      Beverlo
+-
+  id:        '008832235'
+  country:   BE
+  latitude:  51.050603
+  longitude: 5.235892
+  name:      Beringen
+-
+  id:        '008832243'
+  country:   BE
+  latitude:  51.038207
+  longitude: 5.281782
+  name:      Heusden
+-
+  id:        '008832250'
+  country:   BE
+  latitude:  51.033548
+  longitude: 5.3299
+  name:      Zolder
+-
+  id:        '008832334'
+  country:   BE
+  latitude:  50.989557
+  longitude: 5.348815
+  name:      Zonhoven
+-
+  id:        '008832375'
+  country:   BE
+  latitude:  50.954841
+  longitude: 5.350226
+  name:      Kiewit
+-
+  id:        '008832409'
+  country:   BE
+  latitude:  51.19105
+  longitude: 5.116336
+  name:      Mol
+-
+  id:        '008832433'
+  country:   BE
+  latitude:  51.168955
+  longitude: 4.988608
+  name:      Geel
+-
+  id:        '008832458'
+  country:   BE
+  latitude:  51.188057
+  longitude: 4.847585
+  name:      Olen
+-
+  id:        '008832565'
+  country:   BE
+  latitude:  51.211564
+  longitude: 5.312031
+  name:      Lommel
+-
+  id:        '008832573'
+  country:   BE
+  latitude:  51.215618
+  longitude: 5.422751
+  name:      Overpelt
+-
+  id:        '008832615'
+  country:   BE
+  latitude:  51.222369
+  longitude: 5.43717
+  name:      Neerpelt
+-
+  id:        '008832664'
+  country:   BE
+  latitude:  51.246424
+  longitude: 5.543279
+  name:      Hamont
+-
+  id:          '008833001'
+  alternative:
+    -
+      language: fr
+      value:    Louvain
+    -
+      language: de
+      value:    Löwen
+  country:     BE
+  latitude:    50.88228
+  longitude:   4.715866
+  name:        Leuven
+-
+  id:        '008833050'
+  country:   BE
+  latitude:  50.836282
+  longitude: 4.835522
+  name:      Vertrijk
+-
+  id:        '008833126'
+  country:   BE
+  latitude:  50.86253
+  longitude: 4.6952
+  name:      Heverlee
+-
+  id:        '008833134'
+  country:   BE
+  latitude:  50.835931
+  longitude: 4.653311
+  name:      Oud-Heverlee
+-
+  id:        '008833159'
+  country:   BE
+  latitude:  50.800631
+  longitude: 4.651728
+  name:      Sint-Joris-Weert
+-
+  id:        '008833175'
+  country:   BE
+  latitude:  50.92274
+  longitude: 4.701475
+  name:      Wijgmaal
+-
+  id:        '008833209'
+  country:   BE
+  latitude:  50.984406
+  longitude: 4.824043
+  name:      Aarschot
+-
+  id:        '008833233'
+  country:   BE
+  latitude:  50.956261
+  longitude: 4.747679
+  name:      Wezemaal
+-
+  id:        '008833258'
+  country:   BE
+  latitude:  51.002466
+  longitude: 4.863541
+  name:      Langdorp
+-
+  id:        '008833266'
+  country:   BE
+  latitude:  51.009864
+  longitude: 4.945829
+  name:      Testelt
+-
+  id:        '008833274'
+  country:   BE
+  latitude:  51.00669
+  longitude: 4.987359
+  name:      Zichem
+-
+  id:          '008833308'
+  alternative:
+    -
+      language: fr
+      value:    Tirlemont
+    -
+      language: de
+      value:    Thienen
+  country:     BE
+  latitude:    50.80802
+  longitude:   4.92581
+  name:        Tienen
+-
+  id:        '008833449'
+  country:   BE
+  latitude:  50.772126
+  longitude: 4.994217
+  name:      Ezemaal
+-
+  id:        '008833605'
+  country:   BE
+  latitude:  50.747927
+  longitude: 5.07966
+  name:      Landen
+-
+  id:        '008833670'
+  country:   BE
+  latitude:  50.763964
+  longitude: 5.036323
+  name:      Neerwinden
+-
+  id:          '008841004'
+  alternative:
+    -
+      language: nl
+      value:    Luik-Guillemins
+  country:     BE
+  latitude:    50.62455
+  longitude:   5.566695
+  name:        Liège-Guillemins
+-
+  id:        '008841202'
+  country:   BE
+  latitude:  50.661208
+  longitude: 5.509704
+  name:      Ans
+-
+  id:        '008841319'
+  country:   BE
+  latitude:  50.65861
+  longitude: 5.460551
+  name:      Bierset-Awans
+-
+  id:        '008841327'
+  country:   BE
+  latitude:  50.66181
+  longitude: 5.429556
+  name:      Voroux
+-
+  id:          '008841400'
+  alternative:
+    -
+      language: nl
+      value:    Borgworm
+  country:     BE
+  latitude:    50.694549
+  longitude:   5.249475
+  name:        Waremme
+-
+  id:        '008841434'
+  country:   BE
+  latitude:  50.685065
+  longitude: 5.286394
+  name:      Bleret
+-
+  id:        '008841442'
+  country:   BE
+  latitude:  50.678611
+  longitude: 5.321407
+  name:      Remicourt
+-
+  id:        '008841459'
+  country:   BE
+  latitude:  50.66991
+  longitude: 5.367602
+  name:      Momalle
+-
+  id:        '008841467'
+  country:   BE
+  latitude:  50.664049
+  longitude: 5.398453
+  name:      Fexhe-le-Haut-Clocher
+-
+  id:          '008841525'
+  alternative:
+    -
+      language: nl
+      value:    Luik-Paleis
+  country:     BE
+  latitude:    50.646349
+  longitude:   5.570453
+  name:        Liège-Palais
+-
+  id:          '008841558'
+  alternative:
+    -
+      language: nl
+      value:    Luik-Jonfosse
+  country:     BE
+  latitude:    50.640299
+  longitude:   5.561131
+  name:        Liège-Jonfosse
+-
+  id:        '008841608'
+  country:   BE
+  latitude:  50.660911
+  longitude: 5.622761
+  name:      Herstal
+-
+  id:        '008841665'
+  country:   BE
+  latitude:  50.692455
+  longitude: 5.60009
+  name:      Milmort
+-
+  id:        '008841673'
+  country:   BE
+  latitude:  50.698181
+  longitude: 5.56683
+  name:      Liers
+-
+  id:          '008841731'
+  alternative:
+    -
+      language: nl
+      value:    Glaaien
+  country:     BE
+  latitude:    50.750426
+  longitude:   5.535431
+  name:        Glons
+-
+  id:        '008842002'
+  country:   BE
+  latitude:  50.613152
+  longitude: 5.599695
+  name:      Angleur
+-
+  id:        '008842036'
+  country:   BE
+  latitude:  50.608019
+  longitude: 5.616073
+  name:      Chênée
+-
+  id:        '008842630'
+  country:   BE
+  latitude:  50.570624
+  longitude: 5.583937
+  name:      Tilff
+-
+  id:        '008842648'
+  country:   BE
+  latitude:  50.54762
+  longitude: 5.587236
+  name:      Méry
+-
+  id:        '008842655'
+  country:   BE
+  latitude:  50.539917
+  longitude: 5.573563
+  name:      Hony
+-
+  id:        '008842663'
+  country:   BE
+  latitude:  50.530568
+  longitude: 5.572565
+  name:      Esneux
+-
+  id:        '008842689'
+  country:   BE
+  latitude:  50.509209
+  longitude: 5.578858
+  name:      Poulseur
+-
+  id:        '008842705'
+  country:   BE
+  latitude:  50.483285
+  longitude: 5.587631
+  name:      Rivage
+-
+  id:        '008842754'
+  country:   BE
+  latitude:  50.472938
+  longitude: 5.672499
+  name:      Aywaille
+-
+  id:        '008842838'
+  country:   BE
+  latitude:  50.456865
+  longitude: 5.566956
+  name:      Comblain-la-Tour
+-
+  id:        '008842846'
+  country:   BE
+  latitude:  50.428181
+  longitude: 5.533561
+  name:      Hamoir
+-
+  id:        '008842853'
+  country:   BE
+  latitude:  50.403254
+  longitude: 5.523565
+  name:      Sy
+-
+  id:        '008843133'
+  country:   BE
+  latitude:  50.609844
+  longitude: 5.558911
+  name:      Sclessin
+-
+  id:        '008843141'
+  country:   BE
+  latitude:  50.619651
+  longitude: 5.510162
+  name:      Pont-de-Seraing
+-
+  id:        '008843158'
+  country:   BE
+  latitude:  50.618446
+  longitude: 5.497874
+  name:      Jemeppe-sur-Meuse
+-
+  id:        '008843166'
+  country:   BE
+  latitude:  50.605349
+  longitude: 5.480983
+  name:      Flemalle-Grande
+-
+  id:        '008843208'
+  country:   BE
+  latitude:  50.595308
+  longitude: 5.457656
+  name:      Flemalle-Haute
+-
+  id:        '008843224'
+  country:   BE
+  latitude:  50.600396
+  longitude: 5.468309
+  name:      Leman
+-
+  id:        '008843240'
+  country:   BE
+  latitude:  50.582957
+  longitude: 5.401986
+  name:      Engis
+-
+  id:          '008843307'
+  alternative:
+    -
+      language: nl
+      value:    Hoei
+  country:     BE
+  latitude:    50.527242
+  longitude:   5.234211
+  name:        Huy
+-
+  id:        '008843323'
+  country:   BE
+  latitude:  50.539215
+  longitude: 5.289729
+  name:      Ampsin
+-
+  id:        '008843331'
+  country:   BE
+  latitude:  50.546011
+  longitude: 5.32049
+  name:      Amay
+-
+  id:        '008843349'
+  country:   BE
+  latitude:  50.55349
+  longitude: 5.330333
+  name:      Haute-Flône
+-
+  id:        '008843406'
+  country:   BE
+  latitude:  50.528276
+  longitude: 5.219676
+  name:      Statte
+-
+  id:        '008843430'
+  country:   BE
+  latitude:  50.52263
+  longitude: 5.190937
+  name:      Bas-Oha
+-
+  id:        '008843901'
+  country:   BE
+  latitude:  50.643967
+  longitude: 5.611057
+  name:      Bressoux
+-
+  id:          '008844008'
+  alternative:
+    -
+      language: nl
+      value:    Verviers-Centraal
+  country:     BE
+  latitude:    50.588135
+  longitude:   5.854917
+  name:        Verviers-Central
+-
+  id:          '008844057'
+  alternative:
+    -
+      language: nl
+      value:    Verviers-Paleis
+  country:     BE
+  latitude:    50.590921
+  longitude:   5.865335
+  name:        Verviers-Palais
+-
+  id:        '008844206'
+  country:   BE
+  latitude:  50.568179
+  longitude: 5.80615
+  name:      Pepinster
+-
+  id:        '008844230'
+  country:   BE
+  latitude:  50.572089
+  longitude: 5.741581
+  name:      Nessonvaux
+-
+  id:        '008844255'
+  country:   BE
+  latitude:  50.565059
+  longitude: 5.723665
+  name:      Fraipont
+-
+  id:        '008844271'
+  country:   BE
+  latitude:  50.573213
+  longitude: 5.688346
+  name:      Trooz
+-
+  id:        '008844313'
+  country:   BE
+  latitude:  50.563405
+  longitude: 5.804397
+  name:      Pepinster-Cité
+-
+  id:        '008844321'
+  country:   BE
+  latitude:  50.544717
+  longitude: 5.809935
+  name:      Juslenville
+-
+  id:        '008844339'
+  country:   BE
+  latitude:  50.536159
+  longitude: 5.815031
+  name:      Theux
+-
+  id:        '008844347'
+  country:   BE
+  latitude:  50.525723
+  longitude: 5.822223
+  name:      Franchimont
+-
+  id:        '008844404'
+  country:   BE
+  latitude:  50.490305
+  longitude: 5.855096
+  name:      Spa
+-
+  id:        '008844420'
+  country:   BE
+  latitude:  50.489307
+  longitude: 5.866207
+  name:      Spa-Géronstère
+-
+  id:        '008844503'
+  country:   BE
+  latitude:  50.659707
+  longitude: 5.975381
+  name:      Welkenraedt
+-
+  id:        '008844545'
+  country:   BE
+  latitude:  50.616244
+  longitude: 5.936494
+  name:      Dolhain-Gileppe
+-
+  id:        '008844628'
+  country:   BE
+  latitude:  50.635157
+  longitude: 6.03711
+  name:      Eupen
+-
+  id:        '008844644'
+  country:   BE
+  latitude:  50.718209
+  longitude: 6.041335
+  name:      Hergenrath
+-
+  id:        '008845005'
+  country:   BE
+  latitude:  50.189409
+  longitude: 5.953906
+  name:      Gouvy
+-
+  id:        '008845146'
+  country:   BE
+  latitude:  50.278933
+  longitude: 5.909211
+  name:      Vielsalm
+-
+  id:        '008845203'
+  country:   BE
+  latitude:  50.368214
+  longitude: 5.873578
+  name:      Trois-Ponts
+-
+  id:        '008845229'
+  country:   BE
+  latitude:  50.391127
+  longitude: 5.880473
+  name:      Coo
+-
+  id:          '008846201'
+  alternative:
+    -
+      language: nl
+      value:    Wezet
+  country:     BE
+  latitude:    50.73776
+  longitude:   5.692544
+  name:        Visé
+-
+  id:        '008861119'
+  country:   BE
+  latitude:  50.457737
+  longitude: 4.82842
+  name:      Ronet
+-
+  id:        '008861127'
+  country:   BE
+  latitude:  50.456236
+  longitude: 4.806298
+  name:      Flawinne
+-
+  id:        '008861135'
+  country:   BE
+  latitude:  50.443328
+  longitude: 4.762368
+  name:      Floreffe
+-
+  id:        '008861143'
+  country:   BE
+  latitude:  50.439543
+  longitude: 4.733548
+  name:      Franière
+-
+  id:        '008861150'
+  country:   BE
+  latitude:  50.452748
+  longitude: 4.693807
+  name:      Moustier
+-
+  id:        '008861168'
+  country:   BE
+  latitude:  50.45255
+  longitude: 4.669392
+  name:      Ham-sur-Sambre
+-
+  id:        '008861200'
+  country:   BE
+  latitude:  50.570489
+  longitude: 4.691497
+  name:      Gembloux
+-
+  id:        '008861317'
+  country:   BE
+  latitude:  50.557374
+  longitude: 4.697627
+  name:      Chapelle-Dieu
+-
+  id:        '008861333'
+  country:   BE
+  latitude:  50.513497
+  longitude: 4.675829
+  name:      Mazy
+-
+  id:        '008861416'
+  country:   BE
+  latitude:  50.551935
+  longitude: 4.7201
+  name:      Lonzée
+-
+  id:        '008861424'
+  country:   BE
+  latitude:  50.534208
+  longitude: 4.748533
+  name:      Beuzet
+-
+  id:        '008861432'
+  country:   BE
+  latitude:  50.5213
+  longitude: 4.767788
+  name:      Saint-Denis-Bovesse
+-
+  id:        '008861440'
+  country:   BE
+  latitude:  50.499348
+  longitude: 4.801866
+  name:      Rhisnes
+-
+  id:        '008861515'
+  country:   BE
+  latitude:  50.590823
+  longitude: 4.668538
+  name:      Ernage
+-
+  id:        '008861523'
+  country:   BE
+  latitude:  50.608819
+  longitude: 4.648888
+  name:      Chastre
+-
+  id:        '008861531'
+  country:   BE
+  latitude:  50.619453
+  longitude: 4.636393
+  name:      Blanmont
+-
+  id:        '008861549'
+  country:   BE
+  latitude:  50.637611
+  longitude: 4.613884
+  name:      Mont-Saint-Guibert
+-
+  id:        '008862018'
+  country:   BE
+  latitude:  49.690939
+  longitude: 5.769115
+  name:      Stockem
+-
+  id:          '008863008'
+  alternative:
+    -
+      language: nl
+      value:    Namen
+  country:     BE
+  latitude:    50.468794
+  longitude:   4.86222
+  name:        Namur
+-
+  id:        '008863115'
+  country:   BE
+  latitude:  50.454843
+  longitude: 4.876144
+  name:      Jambes
+-
+  id:        '008863156'
+  country:   BE
+  latitude:  50.391559
+  longitude: 4.877241
+  name:      Lustin
+-
+  id:        '008863354'
+  country:   BE
+  latitude:  50.454798
+  longitude: 4.880261
+  name:      Jambes-Est
+-
+  id:        '008863362'
+  country:   BE
+  latitude:  50.429098
+  longitude: 4.884414
+  name:      Dave-Saint-Martin
+-
+  id:        '008863404'
+  country:   BE
+  latitude:  50.496759
+  longitude: 5.094699
+  name:      Andenne
+-
+  id:        '008863438'
+  country:   BE
+  latitude:  50.497209
+  longitude: 5.081745
+  name:      Château-de-Seilles
+-
+  id:        '008863446'
+  country:   BE
+  latitude:  50.492247
+  longitude: 5.026363
+  name:      Sclaigneaux
+-
+  id:        '008863453'
+  country:   BE
+  latitude:  50.47043
+  longitude: 4.997939
+  name:      Namêche
+-
+  id:        '008863461'
+  country:   BE
+  latitude:  50.480741
+  longitude: 4.96458
+  name:      Marche-les-Dames
+-
+  id:        '008863503'
+  country:   BE
+  latitude:  50.260721
+  longitude: 4.908182
+  name:      Dinant
+-
+  id:        '008863545'
+  country:   BE
+  latitude:  50.32084
+  longitude: 4.878643
+  name:      Yvoir
+-
+  id:        '008863560'
+  country:   BE
+  latitude:  50.348914
+  longitude: 4.86996
+  name:      Godinne
+-
+  id:        '008863818'
+  country:   BE
+  latitude:  50.238023
+  longitude: 4.90553
+  name:      Anseremme
+-
+  id:        '008863834'
+  country:   BE
+  latitude:  50.211235
+  longitude: 4.964607
+  name:      Gendron-Celles
+-
+  id:        '008863842'
+  country:   BE
+  latitude:  50.189868
+  longitude: 5.006074
+  name:      Houyet
+-
+  id:        '008863867'
+  country:   BE
+  latitude:  50.11443
+  longitude: 4.95684
+  name:      Beauraing
+-
+  id:        '008864006'
+  country:   BE
+  latitude:  50.160401
+  longitude: 5.266698
+  name:      Jemelle
+-
+  id:        '008864311'
+  country:   BE
+  latitude:  50.132759
+  longitude: 5.276784
+  name:      Forrières
+-
+  id:        '008864337'
+  country:   BE
+  latitude:  50.0906
+  longitude: 5.280524
+  name:      Grupont
+-
+  id:        '008864345'
+  country:   BE
+  latitude:  50.202821
+  longitude: 5.313892
+  name:      Marloie
+-
+  id:        '008864352'
+  country:   BE
+  latitude:  50.224135
+  longitude: 5.301091
+  name:      Aye
+-
+  id:        '008864410'
+  country:   BE
+  latitude:  50.222472
+  longitude: 5.346289
+  name:      Marche-en-Famenne
+-
+  id:        '008864436'
+  country:   BE
+  latitude:  50.28367
+  longitude: 5.440136
+  name:      Melreux-Hotton
+-
+  id:        '008864451'
+  country:   BE
+  latitude:  50.349417
+  longitude: 5.501542
+  name:      Barvaux
+-
+  id:        '008864469'
+  country:   BE
+  latitude:  50.376798
+  longitude: 5.519304
+  name:      Bomal
+-
+  id:        '008864501'
+  country:   BE
+  latitude:  50.29105
+  longitude: 5.091409
+  name:      Ciney
+-
+  id:        '008864816'
+  country:   BE
+  latitude:  50.267768
+  longitude: 5.107778
+  name:      Leignon
+-
+  id:        '008864824'
+  country:   BE
+  latitude:  50.262366
+  longitude: 5.124255
+  name:      Chapois
+-
+  id:        '008864832'
+  country:   BE
+  latitude:  50.249044
+  longitude: 5.194371
+  name:      Haversin
+-
+  id:        '008864915'
+  country:   BE
+  latitude:  50.343296
+  longitude: 5.06116
+  name:      Natoye
+-
+  id:        '008864923'
+  country:   BE
+  latitude:  50.357786
+  longitude: 5.056099
+  name:      Florée
+-
+  id:        '008864931'
+  country:   BE
+  latitude:  50.368133
+  longitude: 5.022839
+  name:      Assesse
+-
+  id:        '008864949'
+  country:   BE
+  latitude:  50.387442
+  longitude: 4.996051
+  name:      Courrière
+-
+  id:        '008864956'
+  country:   BE
+  latitude:  50.406373
+  longitude: 4.949739
+  name:      Sart-Bernard
+-
+  id:        '008864964'
+  country:   BE
+  latitude:  50.419695
+  longitude: 4.929756
+  name:      Naninne
+-
+  id:        '008865003'
+  country:   BE
+  latitude:  49.920434
+  longitude: 5.37927
+  name:      Libramont
+-
+  id:          '008865110'
+  alternative:
+    -
+      language: nl
+      value:    Bastenaken-Zuid
+  country:     BE
+  latitude:    49.999737
+  longitude:   5.709858
+  name:        Bastogne-Sud
+-
+  id:          '008865128'
+  alternative:
+    -
+      language: nl
+      value:    Bastenaken-Noord
+  country:     BE
+  latitude:    50.006919
+  longitude:   5.720744
+  name:        Bastogne-Nord
+-
+  id:        '008865227'
+  country:   BE
+  latitude:  50.019504
+  longitude: 5.292641
+  name:      Poix-Saint-Hubert
+-
+  id:        '008865300'
+  country:   BE
+  latitude:  49.852835
+  longitude: 5.267193
+  name:      Bertrix
+-
+  id:        '008865540'
+  country:   BE
+  latitude:  49.895408
+  longitude: 5.118349
+  name:      Paliseul
+-
+  id:        '008865565'
+  country:   BE
+  latitude:  49.905458
+  longitude: 5.092784
+  name:      Carlsbourg
+-
+  id:        '008865615'
+  country:   BE
+  latitude:  49.934134
+  longitude: 5.043047
+  name:      Graide
+-
+  id:        '008865649'
+  country:   BE
+  latitude:  49.984123
+  longitude: 4.978073
+  name:      Gedinne
+-
+  id:          '008866001'
+  alternative:
+    -
+      language: nl
+      value:    Aarlen
+    -
+      language: de
+      value:    Arel
+  country:     BE
+  latitude:    49.68053
+  longitude:   5.809971
+  name:        Arlon
+-
+  id:        '008866118'
+  country:   BE
+  latitude:  49.688243
+  longitude: 5.786527
+  name:      Viville
+-
+  id:        '008866142'
+  country:   BE
+  latitude:  49.718249
+  longitude: 5.632685
+  name:      Habay
+-
+  id:        '008866175'
+  country:   BE
+  latitude:  49.727337
+  longitude: 5.539755
+  name:      Marbehan
+-
+  id:        '008866258'
+  country:   BE
+  latitude:  49.854318
+  longitude: 5.452559
+  name:      Neufchâteau
+-
+  id:        '008866407'
+  country:   BE
+  latitude:  49.560821
+  longitude: 5.519125
+  name:      Virton
+-
+  id:        '008866530'
+  country:   BE
+  latitude:  49.5562
+  longitude: 5.741347
+  name:      Halanzy
+-
+  id:          '008866605'
+  alternative:
+    -
+      language: de
+      value:    Athem
+  country:     BE
+  latitude:    49.563346
+  longitude:   5.828947
+  name:        Athus
+-
+  id:        '008866654'
+  country:   BE
+  latitude:  49.564093
+  longitude: 5.79806
+  name:      Aubange
+-
+  id:        '008866662'
+  country:   BE
+  latitude:  49.592777
+  longitude: 5.818915
+  name:      Messancy
+-
+  id:        '008866845'
+  country:   BE
+  latitude:  49.706967
+  longitude: 5.331115
+  name:      Florenville
+-
+  id:        '008871100'
+  country:   BE
+  latitude:  50.412171
+  longitude: 4.394223
+  name:      Marchienne-au-Pont
+-
+  id:        '008871175'
+  country:   BE
+  latitude:  50.352896
+  longitude: 4.411294
+  name:      Jamioulx
+-
+  id:        '008871183'
+  country:   BE
+  latitude:  50.333893
+  longitude: 4.406305
+  name:      Beignée
+-
+  id:        '008871217'
+  country:   BE
+  latitude:  50.443112
+  longitude: 4.393199
+  name:      Roux
+-
+  id:        '008871225'
+  country:   BE
+  latitude:  50.462007
+  longitude: 4.400534
+  name:      Courcelles-Motte
+-
+  id:        '008871308'
+  country:   BE
+  latitude:  50.505856
+  longitude: 4.38412
+  name:      Luttre
+-
+  id:        '008871332'
+  country:   BE
+  latitude:  50.535206
+  longitude: 4.36357
+  name:      Obaix-Buzet
+-
+  id:        '008871365'
+  country:   BE
+  latitude:  50.513812
+  longitude: 4.355291
+  name:      Pont-à-Celles
+-
+  id:        '008871373'
+  country:   BE
+  latitude:  50.497065
+  longitude: 4.325123
+  name:      Gouy-lez-Pieton
+-
+  id:        '008871381'
+  country:   BE
+  latitude:  50.492795
+  longitude: 4.290308
+  name:      Godarville
+-
+  id:        '008871415'
+  country:   BE
+  latitude:  50.434959
+  longitude: 4.288438
+  name:      Piéton
+-
+  id:        '008871514'
+  country:   BE
+  latitude:  50.433314
+  longitude: 4.325384
+  name:      Forchies
+-
+  id:        '008871605'
+  country:   BE
+  latitude:  50.304192
+  longitude: 4.113562
+  name:      Erquelinnes
+-
+  id:        '008871647'
+  country:   BE
+  latitude:  50.310179
+  longitude: 4.132314
+  name:      Erquelinnes-Village
+-
+  id:        '008871662'
+  country:   BE
+  latitude:  50.312642
+  longitude: 4.158427
+  name:      Solre-sur-Sambre
+-
+  id:        '008871670'
+  country:   BE
+  latitude:  50.316328
+  longitude: 4.186833
+  name:      Labuissière
+-
+  id:        '008871688'
+  country:   BE
+  latitude:  50.321164
+  longitude: 4.212785
+  name:      Fontaine-Valmont
+-
+  id:        '008871712'
+  country:   BE
+  latitude:  50.346469
+  longitude: 4.260958
+  name:      Lobbes
+-
+  id:        '008871811'
+  country:   BE
+  latitude:  50.342738
+  longitude: 4.288906
+  name:      Thuin
+-
+  id:        '008871829'
+  country:   BE
+  latitude:  50.363692
+  longitude: 4.308736
+  name:      Hourpes
+-
+  id:        '008871837'
+  country:   BE
+  latitude:  50.377311
+  longitude: 4.350976
+  name:      Landelies
+-
+  id:        '008871852'
+  country:   BE
+  latitude:  50.397465
+  longitude: 4.388767
+  name:      Marchienne-Zone
+-
+  id:          '008872009'
+  alternative:
+    -
+      language: nl
+      value:    Charleroi-Zuid
+  country:     BE
+  latitude:    50.40471
+  longitude:   4.438567
+  name:        Charleroi-Sud
+-
+  id:          '008872066'
+  alternative:
+    -
+      language: nl
+      value:    Charleroi-West
+  country:     BE
+  latitude:    50.410948
+  longitude:   4.436653
+  name:        Charleroi-Ouest
+-
+  id:        '008872306'
+  country:   BE
+  latitude:  50.432451
+  longitude: 4.462946
+  name:      Lodelinsart
+-
+  id:        '008872413'
+  country:   BE
+  latitude:  50.481927
+  longitude: 4.543741
+  name:      Fleurus
+-
+  id:        '008872520'
+  country:   BE
+  latitude:  50.511726
+  longitude: 4.566133
+  name:      Ligny
+-
+  id:        '008872553'
+  country:   BE
+  latitude:  50.558084
+  longitude: 4.552676
+  name:      Tilly
+-
+  id:        '008872579'
+  country:   BE
+  latitude:  50.578103
+  longitude: 4.533349
+  name:      Villers-la-Ville
+-
+  id:        '008872587'
+  country:   BE
+  latitude:  50.610338
+  longitude: 4.539157
+  name:      La Roche (Brabant)
+-
+  id:        '008872611'
+  country:   BE
+  latitude:  50.621826
+  longitude: 4.54926
+  name:      Faux
+-
+  id:        '008873007'
+  country:   BE
+  latitude:  50.259219
+  longitude: 4.435879
+  name:      Walcourt
+-
+  id:        '008873122'
+  country:   BE
+  latitude:  50.191639
+  longitude: 4.535956
+  name:      Philippeville
+-
+  id:        '008873239'
+  country:   BE
+  latitude:  50.237133
+  longitude: 4.492709
+  name:      Yves-Gomezée
+-
+  id:        '008873312'
+  country:   BE
+  latitude:  50.269278
+  longitude: 4.428805
+  name:      Pry
+-
+  id:        '008873320'
+  country:   BE
+  latitude:  50.285603
+  longitude: 4.405909
+  name:      Berzée
+-
+  id:        '008873379'
+  country:   BE
+  latitude:  50.300138
+  longitude: 4.391491
+  name:      Cour-sur-Heure
+-
+  id:        '008873387'
+  country:   BE
+  latitude:  50.319555
+  longitude: 4.404696
+  name:      Ham-sur-Heure
+-
+  id:        '008874005'
+  country:   BE
+  latitude:  50.410103
+  longitude: 4.521861
+  name:      Châtelet
+-
+  id:        '008874054'
+  country:   BE
+  latitude:  50.392718
+  longitude: 4.46851
+  name:      Couillet
+-
+  id:        '008874559'
+  country:   BE
+  latitude:  50.428936
+  longitude: 4.552586
+  name:      Le Campinaire
+-
+  id:        '008874567'
+  country:   BE
+  latitude:  50.435246
+  longitude: 4.564138
+  name:      Farciennes
+-
+  id:        '008874583'
+  country:   BE
+  latitude:  50.429529
+  longitude: 4.584552
+  name:      Aiseau
+-
+  id:        '008874609'
+  country:   BE
+  latitude:  50.432235
+  longitude: 4.608823
+  name:      Tamines
+-
+  id:        '008874716'
+  country:   BE
+  latitude:  50.449197
+  longitude: 4.630532
+  name:      Auvelais
+-
+  id:        '008874724'
+  country:   BE
+  latitude:  50.45095
+  longitude: 4.662632
+  name:      Jemeppe-sur-Sambre
+-
+  id:        '008875002'
+  country:   BE
+  latitude:  50.09549
+  longitude: 4.525691
+  name:      Mariembourg
+-
+  id:        '008875127'
+  country:   BE
+  latitude:  50.056324
+  longitude: 4.491702
+  name:      Couvin
+-
+  id:          '008881000'
+  alternative:
+    -
+      language: nl
+      value:    Bergen
+  country:     BE
+  latitude:    50.453854
+  longitude:   3.942542
+  name:        Mons
+-
+  id:        '008881125'
+  country:   BE
+  latitude:  50.487411
+  longitude: 3.906343
+  name:      Ghlin
+-
+  id:        '008881158'
+  country:   BE
+  latitude:  50.507025
+  longitude: 3.887987
+  name:      Erbisœul
+-
+  id:          '008881166'
+  alternative:
+    -
+      language: fr
+      value:    Jurbise
+  country:     BE
+  latitude:    50.530496
+  longitude:   3.910694
+  name:        Jurbeke
+-
+  id:        '008881174'
+  country:   BE
+  latitude:  50.536546
+  longitude: 3.962139
+  name:      Masnuy-Saint-Pierre
+-
+  id:        '008881190'
+  country:   BE
+  latitude:  50.559342
+  longitude: 3.903224
+  name:      Lens
+-
+  id:        '008881315'
+  country:   BE
+  latitude:  50.471644
+  longitude: 3.956089
+  name:      Nimy
+-
+  id:        '008881406'
+  country:   BE
+  latitude:  50.469873
+  longitude: 4.007804
+  name:      Obourg
+-
+  id:        '008881430'
+  country:   BE
+  latitude:  50.470754
+  longitude: 4.059987
+  name:      Havre
+-
+  id:        '008881455'
+  country:   BE
+  latitude:  50.46954
+  longitude: 4.098523
+  name:      Thieu
+-
+  id:        '008881463'
+  country:   BE
+  latitude:  50.474457
+  longitude: 4.126345
+  name:      Bracquegnies
+-
+  id:        '008881505'
+  country:   BE
+  latitude:  50.341534
+  longitude: 3.909489
+  name:      Quevy
+-
+  id:        '008881562'
+  country:   BE
+  latitude:  50.390642
+  longitude: 3.911638
+  name:      Genly
+-
+  id:        '008881570'
+  country:   BE
+  latitude:  50.405932
+  longitude: 3.906586
+  name:      Frameries
+-
+  id:          '008882107'
+  alternative:
+    -
+      language: nl
+      value:    La Louvière-Centrum
+  country:     BE
+  latitude:    50.478161
+  longitude:   4.179858
+  name:        La Louvière-Centre
+-
+  id:          '008882206'
+  alternative:
+    -
+      language: nl
+      value:    La Louvière-Zuid
+  country:     BE
+  latitude:    50.464974
+  longitude:   4.190609
+  name:        La Louvière-Sud
+-
+  id:        '008882230'
+  country:   BE
+  latitude:  50.457998
+  longitude: 4.247367
+  name:      Morlanwelz
+-
+  id:        '008882248'
+  country:   BE
+  latitude:  50.447957
+  longitude: 4.263826
+  name:      Carnieres
+-
+  id:        '008882339'
+  country:   BE
+  latitude:  50.430797
+  longitude: 4.211041
+  name:      Leval
+-
+  id:        '008882362'
+  country:   BE
+  latitude:  50.408764
+  longitude: 4.172451
+  name:      Binche
+-
+  id:        '008882701'
+  country:   BE
+  latitude:  50.506108
+  longitude: 4.234683
+  name:      Manage
+-
+  id:          '008883006'
+  alternative:
+    -
+      language: nl
+      value:    "'s Gravenbrakel"
+  country:     BE
+  latitude:    50.605079
+  longitude:   4.137662
+  name:        Braine-le-Comte
+-
+  id:        '008883022'
+  country:   BE
+  latitude:  50.651005
+  longitude: 4.175893
+  name:      Hennuyères
+-
+  id:          '008883113'
+  alternative:
+    -
+      language: nl
+      value:    Zinnik
+  country:     BE
+  latitude:    50.572763
+  longitude:   4.067519
+  name:        Soignies
+-
+  id:        '008883121'
+  country:   BE
+  latitude:  50.543602
+  longitude: 4.010672
+  name:      Neufvilles
+-
+  id:        '008883212'
+  country:   BE
+  latitude:  50.56239
+  longitude: 4.156639
+  name:      Écaussinnes
+-
+  id:        '008883220'
+  country:   BE
+  latitude:  50.546173
+  longitude: 4.177098
+  name:      Marche-lez-Écaussinnes
+-
+  id:        '008883238'
+  country:   BE
+  latitude:  50.519358
+  longitude: 4.211581
+  name:      Familleureux
+-
+  id:          '008883311'
+  alternative:
+    -
+      language: nl
+      value:    Edingen
+  country:     BE
+  latitude:    50.697273
+  longitude:   4.047357
+  name:        Enghien
+-
+  id:          '008883436'
+  alternative:
+    -
+      language: nl
+      value:    Opzullik
+  country:     BE
+  latitude:    50.662386
+  longitude:   3.935863
+  name:        Silly
+-
+  id:          '008883808'
+  alternative:
+    -
+      language: nl
+      value:    Tubeke
+  country:     BE
+  latitude:    50.691708
+  longitude:   4.205729
+  name:        Tubize
+-
+  id:        '008884004'
+  country:   BE
+  latitude:  50.44286
+  longitude: 3.820253
+  name:      Saint-Ghislain
+-
+  id:        '008884319'
+  country:   BE
+  latitude:  50.436388
+  longitude: 3.797025
+  name:      Boussu
+-
+  id:        '008884327'
+  country:   BE
+  latitude:  50.428019
+  longitude: 3.766893
+  name:      Hainin
+-
+  id:        '008884335'
+  country:   BE
+  latitude:  50.410103
+  longitude: 3.68608
+  name:      Quievrain
+-
+  id:        '008884350'
+  country:   BE
+  latitude:  50.423335
+  longitude: 3.744708
+  name:      Thulin
+-
+  id:        '008884541'
+  country:   BE
+  latitude:  50.449827
+  longitude: 3.856543
+  name:      Quaregnon
+-
+  id:        '008884566'
+  country:   BE
+  latitude:  50.452577
+  longitude: 3.885587
+  name:      Jemappes
+-
+  id:        '008884632'
+  country:   BE
+  latitude:  50.464542
+  longitude: 3.724248
+  name:      Ville-Pommerœul
+-
+  id:        '008884640'
+  country:   BE
+  latitude:  50.482565
+  longitude: 3.698764
+  name:      Harchies
+-
+  id:        '008884715'
+  country:   BE
+  latitude:  50.505461
+  longitude: 3.666304
+  name:      Blaton
+-
+  id:        '008884855'
+  country:   BE
+  latitude:  50.513704
+  longitude: 3.592772
+  name:      Péruwelz
+-
+  id:        '008884889'
+  country:   BE
+  latitude:  50.527359
+  longitude: 3.52618
+  name:      Callenelle
+-
+  id:          '008885001'
+  alternative:
+    -
+      language: nl
+      value:    Doornik
+  country:     BE
+  latitude:    50.613134
+  longitude:   3.396942
+  name:        Tournai
+-
+  id:        '008885068'
+  country:   BE
+  latitude:  50.62989
+  longitude: 3.354837
+  name:      Froyennes
+-
+  id:        '008885522'
+  country:   BE
+  latitude:  50.569626
+  longitude: 3.451309
+  name:      Antoing
+-
+  id:        '008885530'
+  country:   BE
+  latitude:  50.547557
+  longitude: 3.495527
+  name:      Maubray
+-
+  id:          '008885704'
+  alternative:
+    -
+      language: nl
+      value:    Moeskroen
+  country:     BE
+  latitude:    50.741005
+  longitude:   3.228448
+  name:        Mouscron
+-
+  id:        '008885753'
+  country:   BE
+  latitude:  50.713894
+  longitude: 3.245959
+  name:      Herseaux
+-
+  id:          '008886009'
+  alternative:
+    -
+      language: nl
+      value:    Aat
+  country:     BE
+  latitude:    50.626932
+  longitude:   3.777429
+  name:        Ath
+-
+  id:        '008886041'
+  country:   BE
+  latitude:  50.614356
+  longitude: 3.800117
+  name:      Maffle
+-
+  id:        '008886058'
+  country:   BE
+  latitude:  50.600108
+  longitude: 3.833917
+  name:      Mevergnies-Attre
+-
+  id:        '008886066'
+  country:   BE
+  latitude:  50.594229
+  longitude: 3.852551
+  name:      Brugelette
+-
+  id:        '008886074'
+  country:   BE
+  latitude:  50.586759
+  longitude: 3.874809
+  name:      Cambron-Casteau
+-
+  id:        '008886348'
+  country:   BE
+  latitude:  50.600612
+  longitude: 3.616872
+  name:      Leuze
+-
+  id:        '008886504'
+  country:   BE
+  latitude:  50.712015
+  longitude: 3.836434
+  name:      Lessen
+-
+  id:          '008886546'
+  alternative:
+    -
+      language: nl
+      value:    Akren
+  country:     BE
+  latitude:    50.733095
+  longitude:   3.847086
+  name:        Acren
+-
+  id:        '008886553'
+  country:   BE
+  latitude:  50.703062
+  longitude: 3.835175
+  name:      Houraing
+-
+  id:        '008886561'
+  country:   BE
+  latitude:  50.686585
+  longitude: 3.823408
+  name:      Papegem
+-
+  id:        '008886587'
+  country:   BE
+  latitude:  50.661235
+  longitude: 3.793627
+  name:      Rebaix
+-
+  id:          '008891009'
+  alternative:
+    -
+      language: fr
+      value:    Bruges
+  country:     BE
+  latitude:    51.197226
+  longitude:   3.216726
+  name:        Brugge
+-
+  id:          '008891033'
+  alternative:
+    -
+      language: fr
+      value:    Bruges-Saint-Pierre
+  country:     BE
+  latitude:    51.223115
+  longitude:   3.201795
+  name:        Brugge-Sint-Pieters
+-
+  id:        '008891116'
+  country:   BE
+  latitude:  51.154114
+  longitude: 3.257466
+  name:      Oostkamp
+-
+  id:        '008891124'
+  country:   BE
+  latitude:  51.128009
+  longitude: 3.329892
+  name:      Beernem
+-
+  id:        '008891132'
+  country:   BE
+  latitude:  51.107612
+  longitude: 3.38673
+  name:      Maria-Aalter
+-
+  id:        '008891140'
+  country:   BE
+  latitude:  51.092295
+  longitude: 3.447848
+  name:      Aalter
+-
+  id:        '008891157'
+  country:   BE
+  latitude:  51.083908
+  longitude: 3.487374
+  name:      Bellem
+-
+  id:        '008891165'
+  country:   BE
+  latitude:  51.073202
+  longitude: 3.536212
+  name:      Hansbeke
+-
+  id:        '008891173'
+  country:   BE
+  latitude:  51.324549
+  longitude: 3.186666
+  name:      Zeebrugge-Strand
+-
+  id:        '008891264'
+  country:   BE
+  latitude:  51.127047
+  longitude: 3.16414
+  name:      Zedelgem
+-
+  id:        '008891314'
+  country:   BE
+  latitude:  51.064707
+  longitude: 3.105871
+  name:      Torhout
+-
+  id:        '008891405'
+  country:   BE
+  latitude:  51.312432
+  longitude: 3.133864
+  name:      Blankenberge
+-
+  id:        '008891553'
+  country:   BE
+  latitude:  51.326383
+  longitude: 3.19517
+  name:      Zeebrugge-Dorp
+-
+  id:        '008891611'
+  country:   BE
+  latitude:  51.306409
+  longitude: 3.191557
+  name:      Zwankendamme
+-
+  id:        '008891629'
+  country:   BE
+  latitude:  51.294714
+  longitude: 3.194505
+  name:      Lissewege
+-
+  id:        '008891645'
+  country:   BE
+  latitude:  51.333979
+  longitude: 3.239181
+  name:      Heist
+-
+  id:        '008891652'
+  country:   BE
+  latitude:  51.338195
+  longitude: 3.263587
+  name:      Duinbergen
+-
+  id:        '008891660'
+  country:   BE
+  latitude:  51.339894
+  longitude: 3.285188
+  name:      Knokke
+-
+  id:          '008891702'
+  alternative:
+    -
+      language: fr
+      value:    Ostende
+  country:     BE
+  latitude:    51.228212
+  longitude:   2.925809
+  name:        Oostende
+-
+  id:          '008892007'
+  alternative:
+    -
+      language: en
+      value:    Ghent-Sint-Pieters
+    -
+      language: fr
+      value:    Gand-Saint-Pierre
+  country:     BE
+  latitude:    51.035896
+  longitude:   3.710675
+  name:        Gent-Sint-Pieters
+-
+  id:        '008892031'
+  country:   BE
+  latitude:  51.047295
+  longitude: 3.655202
+  name:      Drongen
+-
+  id:        '008892056'
+  country:   BE
+  latitude:  51.064311
+  longitude: 3.576852
+  name:      Landegem
+-
+  id:        '008892080'
+  country:   BE
+  latitude:  50.997063
+  longitude: 3.650465
+  name:      De Pinte
+-
+  id:        '008892106'
+  country:   BE
+  latitude:  50.978258
+  longitude: 3.534432
+  name:      Deinze
+-
+  id:        '008892205'
+  country:   BE
+  latitude:  51.025163
+  longitude: 3.127212
+  name:      Lichtervelde
+-
+  id:        '008892254'
+  country:   BE
+  latitude:  50.990842
+  longitude: 3.330341
+  name:      Tielt
+-
+  id:        '008892288'
+  country:   BE
+  latitude:  50.98446
+  longitude: 3.418363
+  name:      Aarsele
+-
+  id:          '008892304'
+  alternative:
+    -
+      language: fr
+      value:    Furnes
+  country:     BE
+  latitude:    51.073867
+  longitude:   2.66994
+  name:        Veurne
+-
+  id:          '008892320'
+  alternative:
+    -
+      language: fr
+      value:    Coxyde
+  country:     BE
+  latitude:    51.079197
+  longitude:   2.65277
+  name:        Koksijde
+-
+  id:          '008892338'
+  alternative:
+    -
+      language: fr
+      value:    La Panne
+  country:     BE
+  latitude:    51.0774
+  longitude:   2.601963
+  name:        De Panne
+-
+  id:        '008892403'
+  country:   BE
+  latitude:  51.025244
+  longitude: 3.043459
+  name:      Kortemark
+-
+  id:          '008892452'
+  alternative:
+    -
+      language: fr
+      value:    Dixmude
+  country:     BE
+  latitude:    51.032723
+  longitude:   2.868943
+  name:        Diksmuide
+-
+  id:        '008892601'
+  country:   BE
+  latitude:  50.850116
+  longitude: 3.600386
+  name:      Oudenaarde
+-
+  id:        '008892627'
+  country:   BE
+  latitude:  50.870432
+  longitude: 3.623776
+  name:      Eine
+-
+  id:        '008892635'
+  country:   BE
+  latitude:  50.908025
+  longitude: 3.646384
+  name:      Zingem
+-
+  id:        '008892643'
+  country:   BE
+  latitude:  50.930021
+  longitude: 3.639732
+  name:      Gavere-Asper
+-
+  id:        '008892650'
+  country:   BE
+  latitude:  50.960774
+  longitude: 3.627839
+  name:      Eke-Nazareth
+-
+  id:        '008892692'
+  country:   BE
+  latitude:  50.874297
+  longitude: 3.698395
+  name:      Sint-Denijs-Boekel
+-
+  id:        '008892734'
+  country:   BE
+  latitude:  50.826385
+  longitude: 3.495014
+  name:      Anzegem
+-
+  id:          '008892908'
+  alternative:
+    -
+      language: fr
+      value:    Renaix
+  country:     BE
+  latitude:    50.742506
+  longitude:   3.602552
+  name:        Ronse
+-
+  id:        '008893013'
+  country:   BE
+  latitude:  51.017531
+  longitude: 3.768889
+  name:      Merelbeke
+-
+  id:        '008893039'
+  country:   BE
+  latitude:  51.002807
+  longitude: 3.797088
+  name:      Melle
+-
+  id:        '008893047'
+  country:   BE
+  latitude:  50.980199
+  longitude: 3.801672
+  name:      Gontrode
+-
+  id:        '008893054'
+  country:   BE
+  latitude:  50.970545
+  longitude: 3.791146
+  name:      Landskouter
+-
+  id:        '008893062'
+  country:   BE
+  latitude:  50.953519
+  longitude: 3.781339
+  name:      Moortsele
+-
+  id:        '008893070'
+  country:   BE
+  latitude:  50.937069
+  longitude: 3.777842
+  name:      Scheldewindeke
+-
+  id:          '008893120'
+  alternative:
+    -
+      language: en
+      value:    Ghent-Dampoort
+    -
+      language: fr
+      value:    Gand-Dampoort
+  country:     BE
+  latitude:    51.056365
+  longitude:   3.740591
+  name:        Gent-Dampoort
+-
+  id:        '008893179'
+  country:   BE
+  latitude:  51.038647
+  longitude: 3.756322
+  name:      Gentbrugge
+-
+  id:        '008893211'
+  country:   BE
+  latitude:  51.088357
+  longitude: 3.719071
+  name:      Wondelgem
+-
+  id:        '008893252'
+  country:   BE
+  latitude:  51.107585
+  longitude: 3.70138
+  name:      Evergem
+-
+  id:        '008893260'
+  country:   BE
+  latitude:  51.126607
+  longitude: 3.667526
+  name:      Sleidinge
+-
+  id:          '008893401'
+  alternative:
+    -
+      language: fr
+      value:    Termonde
+  country:     BE
+  latitude:    51.022781
+  longitude:   4.101427
+  name:        Dendermonde
+-
+  id:          '008893443'
+  alternative:
+    -
+      language: fr
+      value:    Saint-Gilles-lez-Termonde
+  country:     BE
+  latitude:    51.021693
+  longitude:   4.117832
+  name:        Sint-Gillis-Dendermonde
+-
+  id:        '008893518'
+  country:   BE
+  latitude:  51.01523
+  longitude: 4.064472
+  name:      Oudegem
+-
+  id:        '008893526'
+  country:   BE
+  latitude:  51.003149
+  longitude: 4.011094
+  name:      Schoonaarde
+-
+  id:        '008893534'
+  country:   BE
+  latitude:  51.001962
+  longitude: 3.969195
+  name:      Wichelen
+-
+  id:        '008893542'
+  country:   BE
+  latitude:  51.003149
+  longitude: 3.921373
+  name:      Schellebelle
+-
+  id:        '008893559'
+  country:   BE
+  latitude:  51.001603
+  longitude: 3.881883
+  name:      Wetteren
+-
+  id:          '008893567'
+  alternative:
+    -
+      language: fr
+      value:    Quatrecht
+  country:     BE
+  latitude:    50.99175
+  longitude:   3.829593
+  name:        Kwatrecht
+-
+  id:        '008893583'
+  country:   BE
+  latitude:  50.984397
+  longitude: 3.959361
+  name:      Serskamp
+-
+  id:        '008893708'
+  country:   BE
+  latitude:  51.181333
+  longitude: 3.574515
+  name:      Eeklo
+-
+  id:        '008893815'
+  country:   BE
+  latitude:  51.154608
+  longitude: 3.615353
+  name:      Waarschoot
+-
+  id:        '008894151'
+  country:   BE
+  latitude:  51.08753
+  longitude: 3.879384
+  name:      Beervelde
+-
+  id:        '008894201'
+  country:   BE
+  latitude:  51.108062
+  longitude: 3.987794
+  name:      Lokeren
+-
+  id:        '008894235'
+  country:   BE
+  latitude:  51.073256
+  longitude: 4.041999
+  name:      Zele
+-
+  id:        '008894425'
+  country:   BE
+  latitude:  51.143398
+  longitude: 4.06894
+  name:      Sinaai
+-
+  id:        '008894433'
+  country:   BE
+  latitude:  51.150994
+  longitude: 4.088608
+  name:      Belsele
+-
+  id:          '008894508'
+  alternative:
+    -
+      language: fr
+      value:    Saint-Nicolas
+  country:     BE
+  latitude:    51.171472
+  longitude:   4.142966
+  name:        Sint-Niklaas
+-
+  id:        '008894672'
+  country:   BE
+  latitude:  51.126085
+  longitude: 4.221352
+  name:      Temse
+-
+  id:        '008894714'
+  country:   BE
+  latitude:  51.185612
+  longitude: 4.185907
+  name:      Nieuwkerken-Waas
+-
+  id:        '008894748'
+  country:   BE
+  latitude:  51.208336
+  longitude: 4.25952
+  name:      Beveren
+-
+  id:        '008894755'
+  country:   BE
+  latitude:  51.21071
+  longitude: 4.286766
+  name:      Melsele
+-
+  id:        '008894821'
+  country:   BE
+  latitude:  51.214108
+  longitude: 4.32978
+  name:      Zwijndrecht
+-
+  id:          '008895000'
+  alternative:
+    -
+      language: fr
+      value:    Alost
+  country:     BE
+  latitude:    50.942813
+  longitude:   4.039653
+  name:        Aalst
+-
+  id:        '008895067'
+  country:   BE
+  latitude:  50.970895
+  longitude: 3.984981
+  name:      Lede
+-
+  id:        '008895091'
+  country:   BE
+  latitude:  50.919621
+  longitude: 4.055447
+  name:      Erembodegem
+-
+  id:        '008895125'
+  country:   BE
+  latitude:  50.948377
+  longitude: 4.024407
+  name:      Aalst-Kerrebroek
+-
+  id:        '008895208'
+  country:   BE
+  latitude:  50.869102
+  longitude: 3.81441
+  name:      Zottegem
+-
+  id:        '008895232'
+  country:   BE
+  latitude:  50.875673
+  longitude: 3.733238
+  name:      Munkzwalm
+-
+  id:        '008895240'
+  country:   BE
+  latitude:  50.90051
+  longitude: 3.80587
+  name:      Balegem-Zuid
+-
+  id:        '008895257'
+  country:   BE
+  latitude:  50.919612
+  longitude: 3.791425
+  name:      Balegem-Dorp
+-
+  id:        '008895422'
+  country:   BE
+  latitude:  50.891296
+  longitude: 3.857469
+  name:      Hillegem
+-
+  id:        '008895430'
+  country:   BE
+  latitude:  50.89722
+  longitude: 3.880616
+  name:      Herzele
+-
+  id:        '008895448'
+  country:   BE
+  latitude:  50.901643
+  longitude: 3.896653
+  name:      Terhagen
+-
+  id:        '008895455'
+  country:   BE
+  latitude:  50.907198
+  longitude: 3.922416
+  name:      Burst
+-
+  id:        '008895463'
+  country:   BE
+  latitude:  50.913769
+  longitude: 3.935711
+  name:      Bambrugge
+-
+  id:        '008895471'
+  country:   BE
+  latitude:  50.928601
+  longitude: 3.962463
+  name:      Erpe-Mere
+-
+  id:        '008895489'
+  country:   BE
+  latitude:  50.943254
+  longitude: 3.98125
+  name:      Vijfhuizen
+-
+  id:          '008895505'
+  alternative:
+    -
+      language: fr
+      value:    Grammont
+  country:     BE
+  latitude:    50.771137
+  longitude:   3.872328
+  name:        Geraardsbergen
+-
+  id:        '008895570'
+  country:   BE
+  latitude:  50.816236
+  longitude: 3.826564
+  name:      Lierde
+-
+  id:        '008895612'
+  country:   BE
+  latitude:  50.751981
+  longitude: 3.917337
+  name:      Viane-Moerbeke
+-
+  id:          '008895620'
+  alternative:
+    -
+      language: fr
+      value:    Gammerages
+  country:     BE
+  latitude:    50.743918
+  longitude:   3.965726
+  name:        Galmaarden
+-
+  id:        '008895638'
+  country:   BE
+  latitude:  50.735522
+  longitude: 3.992828
+  name:      Tollembeek
+-
+  id:        '008895646'
+  country:   BE
+  latitude:  50.723701
+  longitude: 4.014573
+  name:      Herne
+-
+  id:        '008895711'
+  country:   BE
+  latitude:  50.797844
+  longitude: 3.899286
+  name:      Schendelbeke
+-
+  id:        '008895729'
+  country:   BE
+  latitude:  50.801871
+  longitude: 3.921553
+  name:      Idegem
+-
+  id:        '008895737'
+  country:   BE
+  latitude:  50.806986
+  longitude: 3.957653
+  name:      Zandbergen
+-
+  id:        '008895745'
+  country:   BE
+  latitude:  50.813063
+  longitude: 3.972108
+  name:      Appelterre
+-
+  id:        '008895752'
+  country:   BE
+  latitude:  50.823994
+  longitude: 3.993745
+  name:      Eichem
+-
+  id:        '008895760'
+  country:   BE
+  latitude:  50.839509
+  longitude: 4.026133
+  name:      Ninove
+-
+  id:        '008895778'
+  country:   BE
+  latitude:  50.857712
+  longitude: 4.054557
+  name:      Okegem
+-
+  id:        '008895802'
+  country:   BE
+  latitude:  50.891925
+  longitude: 4.071825
+  name:      Denderleeuw
+-
+  id:        '008895836'
+  country:   BE
+  latitude:  50.882531
+  longitude: 4.095287
+  name:      Liedekerke
+-
+  id:        '008895844'
+  country:   BE
+  latitude:  50.876886
+  longitude: 4.06849
+  name:      Iddergem
+-
+  id:        '008895851'
+  country:   BE
+  latitude:  50.903279
+  longitude: 4.05062
+  name:      Welle
+-
+  id:        '008895869'
+  country:   BE
+  latitude:  50.906838
+  longitude: 4.023958
+  name:      Haaltert
+-
+  id:        '008895877'
+  country:   BE
+  latitude:  50.911054
+  longitude: 3.987524
+  name:      Ede
+-
+  id:          '008896008'
+  alternative:
+    -
+      language: fr
+      value:    Courtrai
+  country:     BE
+  latitude:    50.824506
+  longitude:   3.264549
+  name:        Kortrijk
+-
+  id:        '008896115'
+  country:   BE
+  latitude:  50.85586
+  longitude: 3.314008
+  name:      Harelbeke
+-
+  id:        '008896149'
+  country:   BE
+  latitude:  50.892456
+  longitude: 3.42551
+  name:      Waregem
+-
+  id:        '008896230'
+  country:   BE
+  latitude:  50.833657
+  longitude: 3.39163
+  name:      Vichte
+-
+  id:          '008896305'
+  alternative:
+    -
+      language: fr
+      value:    Menin
+  country:     BE
+  latitude:    50.799489
+  longitude:   3.113791
+  name:        Menen
+-
+  id:        '008896370'
+  country:   BE
+  latitude:  50.811526
+  longitude: 3.18352
+  name:      Wevelgem
+-
+  id:        '008896388'
+  country:   BE
+  latitude:  50.825845
+  longitude: 3.224205
+  name:      Bissegem
+-
+  id:        '008896396'
+  country:   BE
+  latitude:  50.781861
+  longitude: 3.046983
+  name:      Wervik
+-
+  id:          '008896412'
+  alternative:
+    -
+      language: nl
+      value:    Komen
+  country:     BE
+  latitude:    50.772072
+  longitude:   2.999286
+  name:        Comines
+-
+  id:          '008896503'
+  alternative:
+    -
+      language: fr
+      value:    Ypres
+  country:     BE
+  latitude:    50.847402
+  longitude:   2.876593
+  name:        Ieper
+-
+  id:        '008896735'
+  country:   BE
+  latitude:  50.854449
+  longitude: 2.736343
+  name:      Poperinge
+-
+  id:          '008896800'
+  alternative:
+    -
+      language: fr
+      value:    Roulers
+  country:     BE
+  latitude:    50.949025
+  longitude:   3.130412
+  name:        Roeselare
+-
+  id:        '008896909'
+  country:   BE
+  latitude:  50.921149
+  longitude: 3.212088
+  name:      Izegem
+-
+  id:        '008896925'
+  country:   BE
+  latitude:  50.914326
+  longitude: 3.255416
+  name:      Ingelmunster

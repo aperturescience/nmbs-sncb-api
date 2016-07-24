@@ -1,5 +1,5 @@
 {
-  "name": "express-api-skeleton",
+  "name": "nmbs-sncb-api",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -12,8 +12,12 @@
     "body-parser": "~1.13.2",
     "debug": "^2.2.0",
     "express": "^4.13.4",
+    "express-validator": "^2.20.8",
     "helmet": "^2.1.1",
-    "http-errors": "^1.5.0"
+    "http-errors": "^1.5.0",
+    "js-yaml": "^3.6.1",
+    "leven": "^2.0.0",
+    "lodash": "^4.13.1"
   },
   "devDependencies": {
     "pre-commit": "^1.1.3",
